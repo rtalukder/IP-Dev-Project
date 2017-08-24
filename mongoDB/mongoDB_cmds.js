@@ -193,5 +193,111 @@ db.potions.find.limit(5)
 // this method can become expensive with large collections
 db.potions.find.skip(3).limit(5)
 
+/*
+	refer to slides dicussing whether to implment embedded or reference documents.
+	if data is starting to become very complex, relational DBs are they way to go
+*/
+
+/*
+	Section on .aggregate() ops
+
+	the aggregation framework allows for advanced computations. the aggregate method
+	acts like a pipeline, where we can pass data through many stages in order
+	to change it along the way.
+*/
+
+aggregate_ops = [$group, $sum, $avg, $max, $min, $match, $project,
+					$sort, $limit]
+
+// vendor_id is an array that it will seach through
+// fields names that begin with '$' are called 'field paths'
+// and are links to a fields in a document
+
+// the results returns unique objects containing the field path name
+db.potions.aggregate(
+	[{"$group": {"_id": "$vendor_id"}}]
+	)
+
+// accumulators take a single expression and compute the expression for grouped documents
+// this will return the total number of entires for each field path 
+db.potions.aggregate(
+	[{"$group": {"_id": "$vendor_id", "total": {"sum": 1}}}]
+	)
+
+/*
+	field paths v. operators
+
+	field paths- when values begin with a '$', they represent field paths
+		that point ot that value
+
+	operators- when fields begin with a '$', they are operators that perform a task
+	
+	in the command below, 
+
+		field paths: $vendor_id and $grade
+		operators: $group and $sum
+
+	each stage modifies the working data set and then passes the altered documents
+	to the next stage until we get our desired result
+
+*/
+
+db.potions.aggregate(
+	[{"$group": {
+		"_id": "$vendor_id", 
+		"total": {"sum": 1},
+		"grade_total": {"$sum": "$grade"}
+		}
+	}]
+	)
+
+// similar to a normal query and will only pass documents to the next 
+// stage if they meet the specified condition(s)
+// * use match early to resuce the number of documents for better performance
+db.potions.aggregate(
+	[{"$match": {"ingredients": "unicorn"}}]
+	)
+
+/*	Example 1
+
+	Find the following: All potions containing 'unicorn'
+		1. query potions
+		2. group by vendor
+		3. sum the number of potions per vendor
+*/
+
+db.potions.aggregate([
+	{"$match": {"ingredients": "unicorn"}}, // stage 1
+	{"$group": {							// stage 2
+		"_id": "$vendor_id"
+		"potion_count": {"sum": 1}
+		}
+	}
+	])
+
+/*	Example 2
+
+	Find the following: All potions under $15
+		1. query potions with price < $15
+		2. group by vendor and average their grades
+		3. sort the results by grade average
+		4. limit results to only 3 vendors
+*/
+
+db.potions.aggregate([
+	{"$match": {"price": {"$lt": 15}}},									// stage 1
+	{"$group": {"_id": "$vendor_id", "avg_grade": {"avg": "$grade"}}},	// stage 2
+	{"$sort": {"avg_grade": -1}},										// stage 3
+	{"$limit": 3}														// stage 4
+	])
 
 
+// we can limit the fields we send by using $project
+// it's common to see $match/$project used together early throughout the pipeline
+db.potions.aggregate([
+	{"$match": {"price": {"$lt": 15}}},									// stage 1
+	{"$project": {"_id": false, "vendor_id": true, "grade": true}},		// stage 2
+	{"$group": {"_id": "$vendor_id", "avg_grade": {"avg": "$grade"}}},	// stage 3
+	{"$sort": {"avg_grade": -1}},										// stage 4
+	{"$limit": 3}														// stage 5
+	])
