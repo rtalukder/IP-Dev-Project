@@ -220,9 +220,9 @@ db.potions.aggregate(
 
 // accumulators take a single expression and compute the expression for grouped documents
 // this will return the total number of entires for each field path 
-db.potions.aggregate(
-	[{"$group": {"_id": "$vendor_id", "total": {"sum": 1}}}]
-	)
+db.potions.aggregate([
+	{"$group": {"_id": "$vendor_id", "total": {"sum": 1}}}
+	])
 
 /*
 	field paths v. operators
@@ -254,9 +254,9 @@ db.potions.aggregate(
 // similar to a normal query and will only pass documents to the next 
 // stage if they meet the specified condition(s)
 // * use match early to resuce the number of documents for better performance
-db.potions.aggregate(
-	[{"$match": {"ingredients": "unicorn"}}]
-	)
+db.potions.aggregate([
+	{"$match": {"ingredients": "unicorn"}}
+	])
 
 /*	Example 1
 
@@ -268,11 +268,7 @@ db.potions.aggregate(
 
 db.potions.aggregate([
 	{"$match": {"ingredients": "unicorn"}}, // stage 1
-	{"$group": {							// stage 2
-		"_id": "$vendor_id"
-		"potion_count": {"sum": 1}
-		}
-	}
+	{"$group": {"_id": "$vendor_id", "potion_count": {"sum": 1}}} //stage 2
 	])
 
 /*	Example 2
