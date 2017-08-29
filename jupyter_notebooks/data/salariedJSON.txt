@@ -1,0 +1,784 @@
+{"name": "ALLISON,  PAUL W", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "107790", "department": "FIRE", "job_titles": "LIEUTENANT"}
+{"name": "BRUNO,  KEVIN D", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "104628", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "COOPER,  JOHN E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "114324", "department": "FIRE", "job_titles": "LIEUTENANT-EMT"}
+{"name": "CRESPO,  VILMA I", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "76932", "department": "LAW", "job_titles": "STAFF ASST"}
+{"name": "DOLAN,  ROBERT J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "111474", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "DUBERT,  TOMASZ ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "91080", "department": "FIRE", "job_titles": "PARAMEDIC I/C"}
+{"name": "EDWARDS,  TIM P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "114846", "department": "FIRE", "job_titles": "LIEUTENANT"}
+{"name": "ELKINS,  ERIC J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "104628", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ESTRADA,  LUIS F", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96060", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "EWING,  MARIE A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "53076", "department": "POLICE", "job_titles": "CLERK III"}
+{"name": "FINN,  SEAN P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "FIRE", "job_titles": "FIREFIGHTER"}
+{"name": "FREELON,  CHERYL N", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96060", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "GRAFF,  KEVIN M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "111474", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "GUNN,  ISSAC J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80868", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "HARRIS,  DANIEL J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48078", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "HATTULA,  CARL J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "107988", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "HILL,  LATINA P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "FIRE", "job_titles": "PARAMEDIC"}
+{"name": "HOLLER,  JOEL P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "104628", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "HROMA JR,  JOHN ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "107988", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "JACKSON,  ERIC ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "107988", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "JOYCE,  SEAN G", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "132876", "department": "POLICE", "job_titles": "CAPTAIN"}
+{"name": "KING,  WARSHAW ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "136794", "department": "FIRE", "job_titles": "CAPTAIN-EMT"}
+{"name": "KWONG,  NORMAN P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "104628", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "LEVEK,  NATHAN L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "FIRE", "job_titles": "PARAMEDIC"}
+{"name": "MACK,  PAUL C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "125190", "department": "POLICE", "job_titles": "LIEUTENANT"}
+{"name": "PETERS,  JOSEPH M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "FIRE", "job_titles": "PARAMEDIC"}
+{"name": "MOORE,  TED D", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "SIMON,  JOSEPH G", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "104628", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "MULLINS,  JOHN T", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "FIRE", "job_titles": "PARAMEDIC"}
+{"name": "NICOL,  EDWARD R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "107988", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "PEASLEE,  SEAN P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "FIRE", "job_titles": "PARAMEDIC"}
+{"name": "PESO,  JOANN M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93876", "department": "HEALTH", "job_titles": "DIR OF NUTRITION"}
+{"name": "SPIRES,  WAYNE E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "128970", "department": "FIRE", "job_titles": "CAPTAIN"}
+{"name": "RICHARDSON,  BRIAN J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "119772", "department": "HEALTH", "job_titles": "DEPUTY COMMISSIONER"}
+{"name": "ROBINSON,  HAROLD ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "RUIZ,  ERACLIO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "104628", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "SANTOS,  MICHAEL J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "107988", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "TOLEDO,  PETER H", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "101442", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "VORTES,  VELMA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "70092", "department": "FIRE", "job_titles": "CLERK IV"}
+{"name": "SKOL,  LARRY W", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "107988", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "SMITH,  KEVIN W", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "FIRE", "job_titles": "FIREFIGHTER"}
+{"name": "STRAKA,  SCOTT M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "TRAGOS,  THOMAS J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "128970", "department": "FIRE", "job_titles": "CAPTAIN"}
+{"name": "VOSBURGH,  GRANT ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "FIRE", "job_titles": "PARAMEDIC"}
+{"name": "VANEK,  AMANDA J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "104628", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "VEGA,  ANA L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "WORD,  HOSEA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "107988", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "YARLING,  ZACHARY ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AARON,  JEFFERY M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "101442", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "AARON,  KARINA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AARON,  KIMBERLEI R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "97056", "department": "GENERAL SERVICES", "job_titles": "CHIEF CONTRACT EXPEDITER"}
+{"name": "ABAD JR,  VICENTE M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "110064", "department": "WATER MGMNT", "job_titles": "CIVIL ENGINEER IV"}
+{"name": "ABARCA,  ANABEL ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "79284", "department": "HEALTH", "job_titles": "SENIOR POLICY ANALYST"}
+{"name": "ABBASI,  CHRISTOPHER ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "50436", "department": "CITY COUNCIL", "job_titles": "STAFF ASST TO THE ALDERMAN"}
+{"name": "ABBATEMARCO,  JAMES J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "103350", "department": "FIRE", "job_titles": "FIRE ENGINEER-EMT"}
+{"name": "ABBATE,  TERRY M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ABBRUZZESE,  WILLIAM J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "76152", "department": "IPRA", "job_titles": "INVESTIGATOR - IPRA II"}
+{"name": "ABDALLAH,  ZAID ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ABDELHADI,  ABDALMAHD ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ABDELLATIF,  AREF R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "102228", "department": "FIRE", "job_titles": "FIREFIGHTER (PER ARBITRATORS AWARD)-PARAMEDIC"}
+{"name": "ABDELMAJEID,  AZIZ ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ABDOLLAHZADEH,  ALI ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "91272", "department": "FIRE", "job_titles": "FIREFIGHTER/PARAMEDIC"}
+{"name": "ABDUL-KARIM,  MUHAMMAD A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "111492", "department": "WATER MGMNT", "job_titles": "ENGINEERING TECHNICIAN VI"}
+{"name": "ABDULLAH,  DANIEL N", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "95484", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "ABDULLAH,  KEVIN ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "114846", "department": "FIRE", "job_titles": "LIEUTENANT"}
+{"name": "ABDULSATTAR,  MUDHAR ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "63480", "department": "WATER MGMNT", "job_titles": "CIVIL ENGINEER II"}
+{"name": "ABEJERO,  JASON V", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ABERCROMBIE IV,  EARL S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "78792", "department": "FIRE", "job_titles": "PARAMEDIC I/C"}
+{"name": "ABNEY,  PATRICK ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ABOUELKHEIR,  HASSAN A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "110064", "department": "FAMILY & SUPPORT", "job_titles": "SENIOR PROGRAMMER/ANALYST"}
+{"name": "ABRAHAM,  GIRLEY T", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "110064", "department": "WATER MGMNT", "job_titles": "CIVIL ENGINEER IV"}
+{"name": "ABRAHAM,  GODWIN K", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "101592", "department": "BUSINESS AFFAIRS", "job_titles": "ENGINEERING TECHNICIAN V"}
+{"name": "ABRAHAM,  NANCY A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "76266", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ABRAM,  ANTHONY A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48078", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ABRAMAVICIUS,  ANNA A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "60852", "department": "OEMC", "job_titles": "SUPERVISING TRAFFIC CONTROL AIDE"}
+{"name": "ABRAMSKI,  JOHN E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "128970", "department": "FIRE", "job_titles": "AMBULANCE COMMANDER"}
+{"name": "ABRAMSON,  NICHOLAS ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48078", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ABRATANSKI,  MARK A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "89148", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "ABREU,  ROBERTO J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "101712", "department": "TRANSPORTN", "job_titles": "TRAFFIC SIGNAL REPAIRMAN"}
+{"name": "ABREU,  ROSITA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "70092", "department": "HEALTH", "job_titles": "PERSONAL COMPUTER OPERATOR III"}
+{"name": "ABREU,  VICTOR ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "99324", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "ABRON,  FLOYD ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ABUBAKER,  MOHAMMED G", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80568", "department": "HEALTH", "job_titles": "SENIOR ENVIRONMENTAL INSPECTOR"}
+{"name": "ABUDAYEH,  ELIAS ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ABURIZEG,  MOHAMMAD ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "68616", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ABUTALEB,  AHMAD H", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "92388", "department": "WATER MGMNT", "job_titles": "CIVIL ENGINEER II"}
+{"name": "ABUZANAT,  ABDALLA H", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "94524", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS EVIDENCE TECHNICIAN)"}
+{"name": "ACCARDO,  ANTHONY V", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48078", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ACCARDO,  JENNIFER A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ACCARDO,  THOMAS J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ACCIARI,  MICHAEL G", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "117660", "department": "STREETS & SAN", "job_titles": "DIVISION SUPERINTENDENT"}
+{"name": "ACCURSO,  MARY K", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "66300", "department": "MAYOR'S OFFICE", "job_titles": "PRESS AIDE I"}
+{"name": "ACEVEDO,  AARON F", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ACEVEDO,  ALEJANDRO R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ACEVEDO,  BIENVENIDO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ACEVEDO,  DAVID M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48078", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ACEVEDO,  EDWARD ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ACEVEDO,  EDWIN C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "97386", "department": "FIRE", "job_titles": "FIREFIGHTER"}
+{"name": "ACEVEDO,  ERIC ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ACEVEDO,  GILBERT ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "121818", "department": "FIRE", "job_titles": "LIEUTENANT-EMT"}
+{"name": "ACEVEDO,  ILIA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ACEVEDO,  JANETE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ACEVEDO,  JASON M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ACEVEDO,  JEFF ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ACEVEDO,  JOSUE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "54708", "department": "OEMC", "job_titles": "POLICE COMMUNICATIONS OPERATOR II"}
+{"name": "ACEVEDO,  MANUEL A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93666", "department": "FIRE", "job_titles": "FIREFIGHTER"}
+{"name": "ACEVEDO,  MARCO A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100980", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS DETECTIVE)"}
+{"name": "ACEVEDO,  MARISOL ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93300", "department": "BUSINESS AFFAIRS", "job_titles": "SENIOR PUBLIC INFORMATION OFFICER"}
+{"name": "ACEVEDO,  MARTIN J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ACEVEDO,  MIKE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "66792", "department": "AVIATION", "job_titles": "AVIATION SECURITY OFFICER"}
+{"name": "ACEVEDO,  NADINE M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ACEVEDO,  RAFAEL ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ACEVES,  JUAN C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ACEVEZ,  ANTHONY E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ACHILLES,  AMBER L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "127068", "department": "LAW", "job_titles": "CHIEF ASST CORPORATION COUNSEL"}
+{"name": "ACHILLY,  LISA S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ACHTEL,  SCOTT R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "95484", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "ACKERMANN,  MICHAEL A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "78792", "department": "FIRE", "job_titles": "PARAMEDIC I/C"}
+{"name": "ACOSTA,  JAIME A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "68616", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ACOSTA,  JESSE A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ACOSTA,  MARK ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "68616", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ACOSTA,  MARTHA A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "69492", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARY ASSOCIATE"}
+{"name": "ACOSTA,  MICHELE D", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ACOSTA,  NATALIE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "68616", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ACOSTA,  ROSA M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "60852", "department": "AVIATION", "job_titles": "PARKING ENFORCEMENT AIDE"}
+{"name": "ACSVECS,  ZAIREH ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ADAIR,  KENNETH R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "91338", "department": "POLICE", "job_titles": "POLICE OFFICER (ASGND AS MARINE OFFICER)"}
+{"name": "ADAMCZYK,  LAWRENCE M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93666", "department": "FIRE", "job_titles": "FIREFIGHTER"}
+{"name": "ADAMIAK,  SIMON P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ADAMIK,  JEFFREY S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100980", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS DETECTIVE)"}
+{"name": "ADAMIK,  MATTHEW W", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "91272", "department": "FIRE", "job_titles": "FIREFIGHTER/PARAMEDIC"}
+{"name": "ADAMOW,  JEFFREY W", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "89148", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "ADAMS,  CRAIG W", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96060", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ADAMS,  DAVID E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "85008", "department": "CULTURAL AFFAIRS", "job_titles": "SPECIAL EVENTS COORD III"}
+{"name": "ADAMS,  DEANIE M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "62364", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARIAN II"}
+{"name": "ADAMS,  DELRICE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "66984", "department": "HEALTH", "job_titles": "PUBLIC HEALTH ADMINISTRATOR III"}
+{"name": "ADAMS,  DENIS H", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100776", "department": "POLICE", "job_titles": "CLINICAL THERAPIST III"}
+{"name": "ADAMS,  DWAYNE D", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ADAMS,  EULA M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "53076", "department": "WATER MGMNT", "job_titles": "DATA ENTRY OPERATOR"}
+{"name": "ADAMS,  FREDERICK L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "38376", "department": "POLICE", "job_titles": "POLICE ADMINISTRATIVE CLERK"}
+{"name": "ADAMS,  GREGORY M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "63756", "department": "AVIATION", "job_titles": "AVIATION SECURITY OFFICER"}
+{"name": "ADAMS,  GREGORY W", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "76932", "department": "BUSINESS AFFAIRS", "job_titles": "ADMINISTRATIVE ASST III"}
+{"name": "ADAMS,  JAIRUS ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48078", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ADAMS,  JAMES W", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100980", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS DETECTIVE)"}
+{"name": "ADAMS JR,  JERRY M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ADAMS JR,  JOHN W", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "89148", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "ADAMSKI,  JERRY J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "68616", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT (RECRUIT)"}
+{"name": "ADAMSKI,  ROBERT ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ADAMS,  LEAH ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "66948", "department": "COMMUNITY DEVELOPMENT", "job_titles": "ACCOUNTING TECHNICIAN II"}
+{"name": "ADAMS,  MATTHEW ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ADAMS,  MICHAEL A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "103932", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS DETECTIVE)"}
+{"name": "ADAMS,  OLIVIA I", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84420", "department": "LAW", "job_titles": "LEGAL SECRETARY"}
+{"name": "ADAMS,  RAYMOND B", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "68220", "department": "PROCUREMENT", "job_titles": "SR PROCUREMENT SPECIALIST"}
+{"name": "ADAMS,  RAYMOND T", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "114324", "department": "FIRE", "job_titles": "LIEUTENANT-EMT"}
+{"name": "ADAMS,  REGINALD K", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "102510", "department": "BUILDINGS", "job_titles": "PLUMBING INSPECTOR"}
+{"name": "ADAMS,  ROBERT L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96657.6", "department": "BUILDINGS", "job_titles": "VENTILATION AND FURNACE INSPECTOR"}
+{"name": "ADAMS,  RYAN ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ADAMS,  SHERYLL A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100776", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARIAN IV"}
+{"name": "ADAMS,  STANLEY ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93300", "department": "BUSINESS AFFAIRS", "job_titles": "SUPVSR OF COMPENSATION"}
+{"name": "ADAMS,  TANERA C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "110064", "department": "TRANSPORTN", "job_titles": "CIVIL ENGINEER IV"}
+{"name": "ADAMS THOMAS,  CHEEAREASE R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "76932", "department": "HEALTH", "job_titles": "PUBLIC HEALTH ADMINISTRATOR I"}
+{"name": "ADAMS,  TIMOTHY J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "97440", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS DETECTIVE)"}
+{"name": "ADAMS,  VICKY M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ADAPON,  NENITA P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "60972", "department": "FINANCE", "job_titles": "ACCOUNTING TECHNICIAN I"}
+{"name": "ADCOCK,  DAVID G", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "91338", "department": "POLICE", "job_titles": "POLICE OFFICER / FLD TRNG OFFICER"}
+{"name": "ADDISON,  LATASHA D", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "29064", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARY CLERK"}
+{"name": "ADDISON,  LEWIS ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "69492", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARY ASSOCIATE"}
+{"name": "ADEBAYO,  BENJAMIN B", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "116736", "department": "BUILDINGS", "job_titles": "BUILDING/CONSTRUCTION INSPECTOR"}
+{"name": "ADE,  JAMES P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ADE,  JAMES P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "111474", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ADEKA,  IBILOLA I", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "77484", "department": "HEALTH", "job_titles": "SUPERVISING DISEASE CONTROL INVESTIGATOR - EXCL"}
+{"name": "ADELAKUN,  NIKTE E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ADELIZZI,  JOY A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "122592", "department": "BUSINESS AFFAIRS", "job_titles": "DEPUTY COMMISSIONER"}
+{"name": "ADELMAN,  BRUCE E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "19968", "department": "CITY COUNCIL", "job_titles": "LEGISLATIVE AIDE"}
+{"name": "ADENI,  MOHAMED K", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100776", "department": "FINANCE", "job_titles": "ACCOUNTANT IV"}
+{"name": "ADESANYA,  EMMANUEL S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "104328", "department": "HEALTH", "job_titles": "ENVIRONMENTAL ENGINEER III"}
+{"name": "ADEYEMO,  HORATIO A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100776", "department": "TRANSPORTN", "job_titles": "CIVIL ENGINEER III"}
+{"name": "ADEYEMO,  MOJIROLA M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "73440", "department": "HEALTH", "job_titles": "PUBLIC HEALTH ADMINISTRATOR I"}
+{"name": "ADKINS,  BRITTANY L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "60084", "department": "LAW", "job_titles": "ASST CORPORATION COUNSEL"}
+{"name": "ADKINS,  KERRI M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "76752", "department": "OEMC", "job_titles": "POLICE COMMUNICATIONS OPERATOR I"}
+{"name": "ADKINS,  MARC D", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96060", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ADKINS,  WILLIAM J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "95712", "department": "OEMC", "job_titles": "FIRE COMMUNICATIONS OPERATOR II"}
+{"name": "ADLER,  TRACY L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "88296", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS EVIDENCE TECHNICIAN)"}
+{"name": "ADLESICK JR,  JOSEPH D", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ADOLFIE,  ELIZABETH U", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "73440", "department": "BUSINESS AFFAIRS", "job_titles": "ADMINISTRATIVE ASST III"}
+{"name": "ADOLFIE JR,  WALTER S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ADREANI,  JOHN J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "103350", "department": "FIRE", "job_titles": "FIRE ENGINEER-EMT"}
+{"name": "ADRIAN,  CHERI A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "111474", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ADRIAN,  JOHN P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "122280", "department": "AVIATION", "job_titles": "ASST CHIEF AIRPORT OPERATIONS SUPVSR"}
+{"name": "AFFANEH,  MAHIR A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AGAR,  BULENT B", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "125316", "department": "WATER MGMNT", "job_titles": "CHIEF ENGINEER OF SEWERS"}
+{"name": "AGEE,  LAWRENCE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AGIN,  LAURA J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96060", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AGOSTA,  JOSEPH J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "103932", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS DETECTIVE)"}
+{"name": "AGOSTINELLI,  MICHAEL A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100980", "department": "FIRE", "job_titles": "FIREFIGHTER (PER ARBITRATORS AWARD)"}
+{"name": "AGOSTO,  HECTOR I", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "91338", "department": "POLICE", "job_titles": "POLICE OFFICER/EXPLSV DETECT K9 HNDLR"}
+{"name": "AGREDANO,  MARIO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "60972", "department": "TRANSPORTN", "job_titles": "BRIDGE OPERATOR"}
+{"name": "AGRON,  EDUARDO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "111474", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "AGRON,  EDWIN ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AGUADA,  GILBERT GLENN ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AGUAS,  ALEX ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AGUAYO,  BRAULIO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80868", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "AGUAYO,  LUIS A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "92274", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "AGUET,  PHILLIP R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "70512", "department": "HEALTH", "job_titles": "SENIOR EMERGENCY MANAGEMENT COORD"}
+{"name": "AGUIAR,  WILLIAM M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "111804", "department": "LAW", "job_titles": "ASST CORPORATION COUNSEL SUPVSR"}
+{"name": "AGUILAR,  ALFREDO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "106416", "department": "STREETS & SAN", "job_titles": "DISTRICT SUPVSR - GRAFFITI REMOVAL SERVICES"}
+{"name": "AGUILAR,  ELMA M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "70092", "department": "ANIMAL CONTRL", "job_titles": "ANIMAL CARE AIDE I"}
+{"name": "AGUILAR,  ESTHER ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93300", "department": "HEALTH", "job_titles": "COORD OF SPECIAL PROJECTS"}
+{"name": "AGUILAR,  IRENE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "70056", "department": "STREETS & SAN", "job_titles": "SANITATION CLERK"}
+{"name": "AGUILAR,  JESUS D", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "86748", "department": "FIRE", "job_titles": "PARAMEDIC I/C"}
+{"name": "AGUILAR,  JUANITA M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "63876", "department": "CITY CLERK", "job_titles": "EDITORIAL ASST"}
+{"name": "AGUILAR,  KARINA D", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "104628", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "AGUILAR,  LOUIS ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "51732", "department": "BOARD OF ELECTION", "job_titles": "SENIOR CLERK-ELECTIONS"}
+{"name": "AGUILAR,  LUIS ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AGUILAR,  RAY R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AGUILAR,  RICARDO L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "69948", "department": "ANIMAL CONTRL", "job_titles": "ANIMAL CONTROL OFFICER"}
+{"name": "AGUILERA,  HORACIO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AGUILERA,  JUAN A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "101712", "department": "TRANSPORTN", "job_titles": "STREET LIGHT REPAIR WORKER"}
+{"name": "AGUILERA,  LINDA M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AGUILERA,  MARIA C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "76266", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AGUILERA,  SAUL ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AGUINAGA,  JOHN P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96060", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AGUINAGA,  MEGAN E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AGUIRRE,  ANTHONY J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AGUIRRE,  ENRIQUE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AGUIRRE,  GUADALUPE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "101592", "department": "TRANSPORTN", "job_titles": "ADMINISTRATIVE SERVICES OFFICER II"}
+{"name": "AGUIRRE,  GUADALUPE G", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AGUIRRE,  JOSEPH R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "103932", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS DETECTIVE)"}
+{"name": "AGUIRRE,  JUAN M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100980", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS EVIDENCE TECHNICIAN)"}
+{"name": "AGUIRRE,  PABLO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "88296", "department": "POLICE", "job_titles": "POLICE OFFICER / FLD TRNG OFFICER"}
+{"name": "AGUIRRE,  RAMIRO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "101442", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "AGUIRRE-RIVERA,  ALAN ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48078", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AGUIRRE,  ROBERT J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "101712", "department": "TRANSPORTN", "job_titles": "LOAD DISPATCHER"}
+{"name": "AGUIRRE,  TANYA L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96060", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AGYEKUM,  KOFI ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "92388", "department": "BUSINESS AFFAIRS", "job_titles": "PROGRAMMER/ANALYST"}
+{"name": "AHARANWA,  ALEXANDER E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "76548", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARIAN I"}
+{"name": "AHEARN,  DORY E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AHERN,  MICHAEL J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "97440", "department": "FIRE", "job_titles": "FIRE ENGINEER"}
+{"name": "AHERN,  PATRICK J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "FIRE", "job_titles": "FIREFIGHTER"}
+{"name": "AHERN,  SCOTT E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AHERN,  SEAN ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "68616", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AHLGRIM,  MICHAEL L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80868", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "AHLHEIM,  MARGARET L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "114324", "department": "FIRE", "job_titles": "LIEUTENANT-EMT"}
+{"name": "AHMAD,  FADI M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AHMAD,  MUSA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48078", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AHMED,  KHALID ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "119124", "department": "WATER MGMNT", "job_titles": "CHIEF PROGRAMMER/ANALYST"}
+{"name": "AHMED,  MOHAMMAD A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "55452", "department": "FINANCE", "job_titles": "PARKING ENFORCEMENT AIDE"}
+{"name": "AHMED,  MOHAMMED K", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "68616", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AHMED,  NAEEMA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "52176", "department": "TRANSPORTN", "job_titles": "CHIEF VOUCHER EXPEDITER"}
+{"name": "AHMED,  NAFEES ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "122820", "department": "AVIATION", "job_titles": "DEPUTY COMMISSIONER"}
+{"name": "AHMED,  QUAZI S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "88344", "department": "POLICE", "job_titles": "CRIMINAL HISTORY ANALYST"}
+{"name": "AHMED,  RIZWANA P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84516", "department": "COMMUNITY DEVELOPMENT", "job_titles": "SENIOR RESEARCH ANALYST"}
+{"name": "AHMED,  SHAHRUKH Z", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48312", "department": "TRANSPORTN", "job_titles": "DATA ENTRY OPERATOR"}
+{"name": "AHMED,  SYED ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "60372", "department": "TRANSPORTN", "job_titles": "FIELD SERVICE SPECIALIST II"}
+{"name": "AICH,  ABRAHAM A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AICH,  ALVARO A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AIKENS,  BRADLEY K", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "136794", "department": "FIRE", "job_titles": "CAPTAIN-EMT"}
+{"name": "AIKENS,  CATHERINE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "53076", "department": "POLICE", "job_titles": "PERSONAL COMPUTER OPERATOR I"}
+{"name": "AIKENS,  CLORA M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "107280", "department": "HEALTH", "job_titles": "PUBLIC HEALTH NURSE IV"}
+{"name": "AIKIN JR,  LAWRENCE J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AIKONEDO,  PAUL E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "92040", "department": "FINANCE", "job_titles": "PROJECTS ADMINISTRATOR"}
+{"name": "AIMERS,  JAMES ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "76266", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AIMONOVITCH,  AMY ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "52320", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARIAN I"}
+{"name": "AJZYK,  EDWARD G", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "67872", "department": "BOARD OF ELECTION", "job_titles": "PRINCIPAL CLERK-ELECTIONS"}
+{"name": "AKANA,  MARK S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100980", "department": "POLICE", "job_titles": "POLICE OFFICER/EXPLSV DETECT K9 HNDLR"}
+{"name": "AKERS,  DEREC A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "95484", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "AKERSON,  WILLIE D", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48078", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AKERSON,  WILLIE L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AKHTAR,  SAEED ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "89328", "department": "TREASURER", "job_titles": "ASST CITY TREASURER"}
+{"name": "AKINBUSUYI,  AYOKUNLE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AKINS,  DARYL ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96060", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AKINS,  KIMBERLY L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AKINS,  MONICA E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AKINS,  ROBIN G", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "91338", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS EVIDENCE TECHNICIAN)"}
+{"name": "ALAGNA,  ANTHONY J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "73260", "department": "OEMC", "job_titles": "POLICE COMMUNICATIONS OPERATOR I"}
+{"name": "ALAGNA,  STEVEN O", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALAGNO,  THOMAS ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AL AMIN,  HASAN M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AL AMIN,  HASSAN ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AL AMIN,  MAHASIN I", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84420", "department": "HEALTH", "job_titles": "COMMUNICABLE DISEASE CONTROL INVESTIGATOR II"}
+{"name": "ALAMO,  ROBERTO G", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "FIRE", "job_titles": "FIREFIGHTER"}
+{"name": "ALAM,  SYED S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84516", "department": "FINANCE", "job_titles": "ACCOUNTANT II"}
+{"name": "ALANIS,  JOSE E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100980", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS DETECTIVE)"}
+{"name": "ALANIS,  ROBERT ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96060", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALANIZ,  BRIAN ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALANIZ,  CHERI ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALANIZ,  ELIZABETH ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALANIZ,  MICHAEL R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALANIZ,  SANDRA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "70092", "department": "FIRE", "job_titles": "ADMINISTRATIVE ASST III"}
+{"name": "ALANZO,  SHARON ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "97320", "department": "HEALTH", "job_titles": "PUBLIC HEALTH NURSE I"}
+{"name": "ALARCON,  LUIS J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "88344", "department": "COMMUNITY DEVELOPMENT", "job_titles": "LOAN PROCESSING SPECIALIST"}
+{"name": "ALATORRE,  FRANK J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALBAKRI,  FARES ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALBANO,  MARC N", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80868", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "ALBARILLO,  VERBENA S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "70716", "department": "HEALTH", "job_titles": "PUBLIC HEALTH NUTRITIONIST III"}
+{"name": "ALBARRAN,  ALBERTO S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALBARRAN,  DAISY ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "45108", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARY ASSOCIATE"}
+{"name": "ALBARRAN,  FABIAN ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "92274", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "ALBARRAN,  FRANK J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "120432", "department": "OEMC", "job_titles": "COORDINATING FIRE COMMUNICATIONS OPERATOR"}
+{"name": "ALBERT,  DONNA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALBERT III,  THOMAS M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "70872", "department": "FIRE", "job_titles": "FIREFIGHTER/PARAMEDIC"}
+{"name": "ALBERTS,  DONNA M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "92592", "department": "BUSINESS AFFAIRS", "job_titles": "REVENUE INVESTIGATOR II"}
+{"name": "ALBIZUREZ,  HECTOR F", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "68616", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALBRECHT,  DAWN M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "88296", "department": "POLICE", "job_titles": "POLICE OFFICER / FLD TRNG OFFICER"}
+{"name": "ALBRIGHT,  KEITH E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "107106", "department": "FIRE", "job_titles": "FIRE ENGINEER-EMT"}
+{"name": "ALBRITTON,  JOSEPH A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "101664", "department": "DISABILITIES", "job_titles": "DEPUTY COMMISSIONER"}
+{"name": "ALCALA,  DAVID A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALCANTAR,  CELIA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84420", "department": "HEALTH", "job_titles": "ACCOUNTING TECHNICIAN III"}
+{"name": "ALCARAZ,  ANGEL G", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "60084", "department": "LAW", "job_titles": "ASST CORPORATION COUNSEL"}
+{"name": "ALCAUTER,  BELEN ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48078", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALCAUTER,  ELIASARD ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "89148", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "ALCAZAR,  ANTOINETTE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALCAZAR,  DAVID E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALCAZAR,  GUADALUPE R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "97320", "department": "HEALTH", "job_titles": "PUBLIC HEALTH NURSE II"}
+{"name": "ALCAZAR,  VICTOR A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALCOZER,  JOSEPH ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "101712", "department": "TRANSPORTN", "job_titles": "TRAFFIC SIGNAL REPAIRMAN"}
+{"name": "ALDAHONDO,  GIL A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALDANA,  CARLOS J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALDERDEN,  JACOB M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "117894", "department": "POLICE", "job_titles": "LIEUTENANT"}
+{"name": "ALDRICH,  JEFFREY S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100980", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS DETECTIVE)"}
+{"name": "ALDRIDGE,  JENNIFER L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96060", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALDUGOM,  NABIL K", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "63828", "department": "STREETS & SAN", "job_titles": "SANITATION CLERK"}
+{"name": "ALDWORTH,  JAMES P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "114324", "department": "FIRE", "job_titles": "LIEUTENANT-EMT"}
+{"name": "ALEGADO,  ROBERTO S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALEGRE,  DAVID ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALEGRIA,  ARTURO M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALEGRIA,  CRISTINA G", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "29328", "department": "BOARD OF ELECTION", "job_titles": "CLERK - BD OF ELECTIONS"}
+{"name": "ALEJANDRO,  JESSE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "76266", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALEJO,  JUAN A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "68100", "department": "HUMAN RESOURCES", "job_titles": "TESTING SPECIALIST"}
+{"name": "ALEJO,  LUIS F", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALEMAN,  GEORGE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "92274", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "ALEMZADEH,  ABDOLREZA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "60312", "department": "WATER MGMNT", "job_titles": "FILTRATION ENGINEER II"}
+{"name": "ALEQUIN,  ANA I", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "70092", "department": "POLICE", "job_titles": "PROPERTY CUSTODIAN"}
+{"name": "ALESIA,  JOSEPH ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "88440", "department": "AVIATION", "job_titles": "AIRPORT MANAGER - O'HARE"}
+{"name": "ALESZCZYK,  ADAM S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "91338", "department": "POLICE", "job_titles": "POLICE TECHNICIAN"}
+{"name": "ALEXA,  MICHELENE A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "111474", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ALEXANDER,  DANA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "170112", "department": "POLICE", "job_titles": "DEPUTY CHIEF"}
+{"name": "ALEXANDER,  DARIUS Q", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALEXANDER,  DARLENE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALEXANDER,  EARL ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "69948", "department": "POLICE", "job_titles": "DETENTION AIDE"}
+{"name": "ALEXANDER,  JAMES P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "125130", "department": "FIRE", "job_titles": "AMBULANCE COMMANDER"}
+{"name": "ALEXANDER JR,  GENE I", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALEXANDER,  KIMBERLY T", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96060", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALEXANDER,  LARRON H", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALEXANDER,  PATRICIA L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "50508", "department": "FINANCE", "job_titles": "PARKING ENFORCEMENT AIDE"}
+{"name": "ALEXANDER,  RACQUEL L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "36204", "department": "FINANCE", "job_titles": "TRAFFIC ENFORCEMENT TECH"}
+{"name": "ALEXANDER,  ROSS J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALEXANDER,  SAMUEL M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "101544", "department": "TRANSPORTN", "job_titles": "FIELD SUPVSR"}
+{"name": "ALEXANDER,  SARAH B", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "62364", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARIAN I"}
+{"name": "ALEXANDER,  WENDY R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "79692", "department": "HUMAN RESOURCES", "job_titles": "RECRUITER"}
+{"name": "ALEXE,  ELENA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AL FARAH,  TENA A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "76266", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALFARO,  ALEXANDER J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "56304", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT (RECRUIT)"}
+{"name": "ALFARO,  HECTOR ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALFARO,  JOSEPHJAM S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALFARO,  JOSEPH S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALFARO JR,  BERNARDO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84216", "department": "AVIATION", "job_titles": "AVIATION SECURITY OFFICER"}
+{"name": "ALFERES,  GERARDO F", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "77484", "department": "BUSINESS AFFAIRS", "job_titles": "SUPERVISING VIDEOGRAPHER"}
+{"name": "ALFINI,  PAUL R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "103932", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS DETECTIVE)"}
+{"name": "ALFRED,  BRENDA L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "66900", "department": "STREETS & SAN", "job_titles": "SANITATION CLERK"}
+{"name": "ALGARIN,  JOEL S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALGAS,  JONATHAN T", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "92274", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "ALGHINI,  LISA M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALGHINI,  RICHARD ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AL HAJJE,  MOHAMAD H", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "110064", "department": "WATER MGMNT", "job_titles": "FILTRATION ENGINEER IV"}
+{"name": "ALI,  BILAL R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALICEA,  VILMA R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "70092", "department": "HEALTH", "job_titles": "COMMUNICABLE DISEASE CONTROL INVESTIGATOR II"}
+{"name": "ALI,  JAVED ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALI  KELLEY,  YASMINE M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "102672", "department": "POLICE", "job_titles": "MANAGER OF POLICE PAYROLLS"}
+{"name": "ALI,  MOHAMMED ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALIOTO,  ROCCO J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "104628", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ALI,  SHAHRUKH ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "68616", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALI,  SHEEMA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48078", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALLAIN,  CAROLYN ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "92592", "department": "DoIT", "job_titles": "SENIOR TELECOMMUNICATIONS SPECIALIST"}
+{"name": "ALLEE,  MATTHEW L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "60084", "department": "LAW", "job_titles": "ASST CORPORATION COUNSEL"}
+{"name": "ALLEGRETTI,  ANTHONY ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "110214", "department": "FIRE", "job_titles": "FIRE ENGINEER-EMT"}
+{"name": "ALLEN,  ACHEN J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "29064", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARY CLERK"}
+{"name": "ALLEN,  ALPHONSO J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "94122", "department": "FIRE", "job_titles": "PARAMEDIC I/C"}
+{"name": "ALLEN,  ANDRE G", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93666", "department": "FIRE", "job_titles": "FIREFIGHTER"}
+{"name": "ALLEN,  ANNETTE D", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "66948", "department": "POLICE", "job_titles": "CLERK IV"}
+{"name": "ALLEN,  ANTONIO W", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "111252", "department": "POLICE", "job_titles": "EXPLOSIVES TECHNICIAN I"}
+{"name": "ALLEN BROWN,  CORA I", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "70092", "department": "FINANCE", "job_titles": "PAYMENT SERVICES REPRESENTATIVE"}
+{"name": "ALLEN,  CLINTON S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84516", "department": "DISABILITIES", "job_titles": "DISABILITY SPECIALIST II"}
+{"name": "ALLEN,  CRAIG M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "107106", "department": "FIRE", "job_titles": "FIRE ENGINEER-EMT"}
+{"name": "ALLEN,  DANIEL H", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "107988", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ALLEN,  DANIEL J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "111252", "department": "FIRE", "job_titles": "LIEUTENANT"}
+{"name": "ALLEN,  DAVID ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALLEN,  DEBRA A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "47592", "department": "OEMC", "job_titles": "POLICE COMMUNICATIONS OPERATOR I"}
+{"name": "ALLEN,  DERRICK ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "95484", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "ALLEN,  DERRICK D", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "98052", "department": "POLICE", "job_titles": "POLICE AGENT"}
+{"name": "ALLEN,  DOMINIQUE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALLEN,  ELIZABETH ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "76548", "department": "TREASURER", "job_titles": "ACCOUNTANT I"}
+{"name": "ALLEN,  ERICA L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "38376", "department": "POLICE", "job_titles": "POLICE ADMINISTRATIVE CLERK"}
+{"name": "ALLEN,  GLORIA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96060", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALLEN,  GORDON K", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALLEN,  HENRY C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALLEN,  JAMES W", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "101442", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ALLEN,  JEFFREY W", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "111474", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ALLEN,  JONATHAN E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "88344", "department": "FINANCE", "job_titles": "STAFF ASST"}
+{"name": "ALLEN,  JOSHUA P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "56304", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT (RECRUIT)"}
+{"name": "ALLEN,  KEITH A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "103932", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS DETECTIVE)"}
+{"name": "ALLEN,  KEVIN C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96060", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALLEN,  KEVIN M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100776", "department": "FINANCE", "job_titles": "ACCOUNTANT IV"}
+{"name": "ALLEN,  LAQUETIA L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "60852", "department": "OEMC", "job_titles": "TRAFFIC CONTROL AIDE"}
+{"name": "ALLEN,  LA SHAWNDA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "60972", "department": "AVIATION", "job_titles": "ADMINISTRATIVE ASST II"}
+{"name": "ALLEN,  MARK D", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100980", "department": "POLICE", "job_titles": "POLICE OFFICER (ASGND AS MARINE OFFICER)"}
+{"name": "ALLEN,  MICHAEL J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "91080", "department": "FIRE", "job_titles": "PARAMEDIC I/C"}
+{"name": "ALLEN,  MICHAEL L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "65496", "department": "BUDGET & MGMT", "job_titles": "SENIOR BUDGET ANALYST"}
+{"name": "ALLEN,  MONICA J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "95484", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "ALLEN,  PETER B", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "70056", "department": "TRANSPORTN", "job_titles": "BRIDGE OPERATOR"}
+{"name": "ALLEN,  PHOEBE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALLEN,  RAYMOND G", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96060", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALLEN,  REGAN J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALLEN,  RUTH B", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100776", "department": "WATER MGMNT", "job_titles": "CIVIL ENGINEER III"}
+{"name": "ALLEN,  RYAN M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "46152", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARY CLERK"}
+{"name": "ALLEN,  SANDRA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "70092", "department": "BUILDINGS", "job_titles": "ADMINISTRATIVE ASST II"}
+{"name": "ALLENSON,  SAGE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALLEN,  TIMOTHY M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "69948", "department": "ANIMAL CONTRL", "job_titles": "ANIMAL CONTROL OFFICER"}
+{"name": "ALLEN,  VERDIE P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "156360", "department": "FIRE", "job_titles": "ASST DEPUTY CHIEF PARAMEDIC"}
+{"name": "ALLEN,  VINCENT ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "98052", "department": "POLICE", "job_titles": "POLICE OFFICER / FLD TRNG OFFICER"}
+{"name": "ALLEN,  WANDA L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80568", "department": "PUBLIC LIBRARY", "job_titles": "ADMINISTRATIVE ASST III"}
+{"name": "BOONE,  RICKY L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "111474", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ALLEY,  AARON ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48078", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALLEYNE,  STEVE C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "114324", "department": "FIRE", "job_titles": "LIEUTENANT-EMT"}
+{"name": "ALLISON,  ALLYSON M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80040", "department": "CITY COUNCIL", "job_titles": "ASST TO THE ALDERMAN"}
+{"name": "ALLISON,  JOHN L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "63756", "department": "ANIMAL CONTRL", "job_titles": "ANIMAL CONTROL OFFICER"}
+{"name": "ALMAGUER,  PHILIP ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALMANZA,  EDUARDO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALMANZA,  FRANCISCO J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "63756", "department": "AVIATION", "job_titles": "AVIATION SECURITY OFFICER"}
+{"name": "ALMANZA,  JOSE A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALMANZA,  MONICA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "92388", "department": "FINANCE", "job_titles": "AUDITOR II"}
+{"name": "ALMANZA,  THERESA A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALMANZA,  YOLANDA M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "76932", "department": "FINANCE", "job_titles": "SUPERVISING CLERK"}
+{"name": "ALMAZAN,  CARMEN ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "73440", "department": "OEMC", "job_titles": "ADMINISTRATIVE ASST III"}
+{"name": "ALMAZAN IZAGUIRRE,  CECILIA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "92592", "department": "HEALTH", "job_titles": "PUBLIC HEALTH ADMINISTRATOR III"}
+{"name": "ALMAZAN,  SIDRONIO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALMAZAN,  SONIA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALMAZAN,  TOMAS ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALMDALE,  LLOYD M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100980", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS DETECTIVE)"}
+{"name": "ALMENDAREZ III,  FILIBERTO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "102348", "department": "FINANCE", "job_titles": "PAYROLL ADMINISTRATOR"}
+{"name": "ALMHANA,  AHMED ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "60312", "department": "WATER MGMNT", "job_titles": "FILTRATION ENGINEER II"}
+{"name": "ALMODOVAR,  JOSHUA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALMODOVAR,  MANUEL ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "114846", "department": "FIRE", "job_titles": "LIEUTENANT"}
+{"name": "ALNEMRI,  EYAD J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALNEMRI,  SAMI J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALOISIO,  SALVATORE D", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALONISTIOTIS,  GEORGE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90216", "department": "CITY CLERK", "job_titles": "ASST MANAGING EDITOR COUNCIL JOURNAL"}
+{"name": "ALONISTIOTIS,  KONSTANTINES M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "76776", "department": "TREASURER", "job_titles": "ASSISTANT DIRECTOR OF FINANCE"}
+{"name": "ALONSO,  ARMANDO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100980", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS EVIDENCE TECHNICIAN)"}
+{"name": "ALONSO,  EDUARDO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "76128", "department": "BUILDINGS", "job_titles": "BUILDING/CONSTRUCTION INSPECTOR"}
+{"name": "ALONSO,  JOSE A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "56304", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT (RECRUIT)"}
+{"name": "ALONSO JR,  JAVIER ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALONSO,  LAURA K", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80868", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "ALONSO,  MARIO A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "110364", "department": "PUBLIC LIBRARY", "job_titles": "DIR OF LIBRARY - PROGRAMS AND EXHIBITS"}
+{"name": "ALONZO,  CHRISTOPHER B", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "FIRE", "job_titles": "PARAMEDIC"}
+{"name": "ALONZO,  EDWARD ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "111474", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ALONZO,  J B", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96720", "department": "TRANSPORTN", "job_titles": "COORDINATING PLANNER"}
+{"name": "ALONZO,  SHAWN P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALONZO,  VINCENT S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "97440", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS DETECTIVE)"}
+{"name": "ALPERN,  STUART H", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93300", "department": "BUSINESS AFFAIRS", "job_titles": "COORD OF SPECIAL PROJECTS"}
+{"name": "ALPERS,  DAVID P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "116736", "department": "BUILDINGS", "job_titles": "BUILDING/CONSTRUCTION INSPECTOR"}
+{"name": "ALPERTO,  JOSEPH S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "54768", "department": "FINANCE", "job_titles": "AUDITOR I"}
+{"name": "ALROY,  MARY E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "70092", "department": "FAMILY & SUPPORT", "job_titles": "ADMINISTRATIVE ASST II"}
+{"name": "ALSHANSKI,  SCOTT K", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "68100", "department": "HUMAN RESOURCES", "job_titles": "TESTING SPECIALIST"}
+{"name": "ALSTON,  ETTA E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "60972", "department": "LAW", "job_titles": "ADMINISTRATIVE ASST II"}
+{"name": "ALSTON MIDDLETON,  GLORIA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "88344", "department": "FAMILY & SUPPORT", "job_titles": "STAFF ASST"}
+{"name": "ALTAMIRANO,  LAZARO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "101442", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ALTAMIRANO,  RAFAEL ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALTENBACH,  ADAM J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALTENBACH,  BLAIR J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALTHOFF,  KELIN ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALTMAN,  FRANCIS J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "68616", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALTMAN,  MARK T", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "149502", "department": "FIRE", "job_titles": "BATTALION CHIEF - EMT"}
+{"name": "ALTMAN,  MICHAEL P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "140970", "department": "FIRE", "job_titles": "BATTALION CHIEF"}
+{"name": "ALTMAN,  PATRICIA A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96060", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALTMAYER,  MELISSA N", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "49908", "department": "OEMC", "job_titles": "POLICE COMMUNICATIONS OPERATOR I"}
+{"name": "ALTWASSER,  PATRICK W", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALUISE,  LEONARD V", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "76932", "department": "TRANSPORTN", "job_titles": "ENGINEERING TECHNICIAN V"}
+{"name": "ALVARADO,  GERARDO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALVARADO GNIADE,  DEBORAH M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "70092", "department": "POLICE", "job_titles": "PERSONNEL ASSISTANT"}
+{"name": "ALVARADO,  IGNACIO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALVARADO,  ISMAEL A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48078", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALVARADO,  JAIME ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "104628", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ALVARADO,  JOSHUA E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALVARADO,  JUAN C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALVARADO,  MATTHEW W", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "91338", "department": "POLICE", "job_titles": "POLICE OFFICER / FLD TRNG OFFICER"}
+{"name": "ALVARADO,  PETER ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "FIRE", "job_titles": "PARAMEDIC"}
+{"name": "ALVARADO,  RAYNA A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALVARADO,  RENE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "97386", "department": "FIRE", "job_titles": "FIREFIGHTER"}
+{"name": "ALVAREZ,  ALFREDO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "77484", "department": "FINANCE", "job_titles": "PARKING INVESTIGATOR"}
+{"name": "ALVAREZ,  ANTONIO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "104628", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ALVAREZ,  ARMANDO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALVAREZ,  CRISTINA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "70620", "department": "CITY CLERK", "job_titles": "WEB AUTHOR"}
+{"name": "ALVAREZ,  DAYLILY C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "65448", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARIAN III"}
+{"name": "ALVAREZ,  DEBORAH A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "97386", "department": "FIRE", "job_titles": "PARAMEDIC"}
+{"name": "ALVAREZ,  EDGAR ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "76266", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALVAREZ,  ELENA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALVAREZ,  ENRIQUE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48078", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALVAREZ,  GENARO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "63228", "department": "TRANSPORTN", "job_titles": "ENGINEERING TECHNICIAN IV"}
+{"name": "ALVAREZ,  HECTOR L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100980", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS DETECTIVE)"}
+{"name": "ALVAREZ,  HERNAN L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALVAREZ,  JAVIER ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "76266", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALVAREZ,  JESSE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "104628", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ALVAREZ,  JESSICA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALVAREZ,  JOSE M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALVAREZ JR,  DAVID ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALVAREZ JR,  RAFAEL ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "114324", "department": "FIRE", "job_titles": "LIEUTENANT-EMT"}
+{"name": "ALVAREZ,  JUAN ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALVAREZ,  LUIS ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALVAREZ,  LUIS J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "70872", "department": "FIRE", "job_titles": "FIREFIGHTER/PARAMEDIC"}
+{"name": "ALVAREZ,  MARCO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "68616", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALVAREZ,  MARGARITA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "101592", "department": "WATER MGMNT", "job_titles": "CHIEF CONTRACT EXPEDITER"}
+{"name": "ALVAREZ,  MARIA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "53076", "department": "AVIATION", "job_titles": "ADMINISTRATIVE ASST II"}
+{"name": "ALVAREZ PENA,  SHERRY L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "111474", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ALVAREZ,  RAMIRO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALVAREZ,  RAUL ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "104628", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ALVAREZ,  RICHARD D", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "111474", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ALVAREZ,  ROBERT ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALVAREZ,  ROBIN C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "140970", "department": "FIRE", "job_titles": "PARAMEDIC FIELD CHIEF"}
+{"name": "ALVAREZ,  SALLY R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "46152", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARY CLERK"}
+{"name": "ALVAREZ,  SANTIAGO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "68616", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT (RECRUIT)"}
+{"name": "ALVAREZ,  TIBALDO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "92556", "department": "BUILDINGS", "job_titles": "BUILDING/CONSTRUCTION INSPECTOR"}
+{"name": "ALVEAR,  ANGELINA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALVERIO,  EVELYN J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "61992", "department": "PROCUREMENT", "job_titles": "ASST TO THE COMMISSIONER"}
+{"name": "ALVERIO,  NICHOLAS T", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48078", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALVISO,  CHARLES ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ALYINOVICH,  JOHN F", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AMADI,  RITA N", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84420", "department": "HEALTH", "job_titles": "PUBLIC HEALTH ADMINISTRATOR II"}
+{"name": "AMADO,  BONITA S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "111192", "department": "POLICE", "job_titles": "DIR OF FACILITIES MANAGEMENT"}
+{"name": "AMADOR,  ANGEL ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AMARO,  KATHERINE M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "63876", "department": "WATER MGMNT", "job_titles": "PERSONAL COMPUTER OPERATOR II"}
+{"name": "AMARO,  TIZOC R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AMATI,  MARK A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "125190", "department": "POLICE", "job_titles": "LIEUTENANT"}
+{"name": "AMATO,  ANTHONY M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "97440", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS DETECTIVE)"}
+{"name": "AMATO,  DINO J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "103932", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS DETECTIVE)"}
+{"name": "AMATO,  MICHAEL J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AMATORE,  CHRIS ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "89148", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "AMATORE JR,  JAMES V", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT (RECRUIT)"}
+{"name": "AMATO,  STEVEN J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "103932", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS DETECTIVE)"}
+{"name": "AMBE,  NEBA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "118932", "department": "DoIT", "job_titles": "DIR OF INFORMATION SYSTEMS"}
+{"name": "AMBOLO,  MICHAEL J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96720", "department": "OEMC", "job_titles": "DIRECTOR OF FINANCE"}
+{"name": "AMBROSE,  CHRISTOPHE M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "112854", "department": "FIRE", "job_titles": "FIREFIGHTER (PER ARBITRATORS AWARD)-PARAMEDIC"}
+{"name": "AMBROSE,  KEVIN J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "89148", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "AMBROSIA,  JOSEPH W", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "106416", "department": "AVIATION", "job_titles": "ASST CHIEF AIRPORT OPERATIONS SUPVSR"}
+{"name": "AMDEMICHAEL,  BAHLEBBY W", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "107220", "department": "CITY CLERK", "job_titles": "DEPUTY MANAGING EDITOR COUNCIL JOURNAL"}
+{"name": "AMELIO,  ANTHONY J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AMELIO,  PAUL S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AMELIO,  PETER R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AMEND,  PATRICK J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "105804", "department": "FIRE", "job_titles": "FIREFIGHTER (PER ARBITRATORS AWARD)-PARAMEDIC"}
+{"name": "AMES,  MORTIMER P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "122352", "department": "LAW", "job_titles": "ASST CORPORATION COUNSEL SUPVSR"}
+{"name": "AMESQUITA,  MIGUEL ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AMEZAGA,  LAURA A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AMEZQUITA,  SONIA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AMICK,  DAVID J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "92556", "department": "BUILDINGS", "job_titles": "BUILDING/CONSTRUCTION INSPECTOR"}
+{"name": "AMITI,  TEKI ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "58068", "department": "FINANCE", "job_titles": "PARKING ENFORCEMENT AIDE"}
+{"name": "AMMONS,  GREGORY W", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "68556", "department": "FINANCE", "job_titles": "PARKING INVESTIGATOR"}
+{"name": "AMORELLA,  MICHAEL S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AMOS,  ALVIN A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "66792", "department": "POLICE", "job_titles": "DETENTION AIDE"}
+{"name": "AMPADU,  DORIS C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "58248", "department": "HEALTH", "job_titles": "CLERK III"}
+{"name": "AMPARAN,  ERNESTO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AMSDEN,  MICHAEL ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "99036", "department": "TRANSPORTN", "job_titles": "PROJECTS ADMINISTRATOR"}
+{"name": "AMSTADT,  ROBERT J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANAELE,  BENEDICT E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "122316", "department": "IPRA", "job_titles": "INVESTIGATOR - IPRA III"}
+{"name": "ANAWES,  CHAMOON F", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "110064", "department": "WATER MGMNT", "job_titles": "FILTRATION ENGINEER IV"}
+{"name": "ANAYA,  DIANA L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "47592", "department": "OEMC", "job_titles": "POLICE COMMUNICATIONS OPERATOR I"}
+{"name": "ANAYA,  ERNESTO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48078", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANAYA,  GEORGE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "76266", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANAYA,  JUAN P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84384", "department": "AVIATION", "job_titles": "AIRPORT OPERATIONS SUPVSR II"}
+{"name": "ANAYA,  MARIA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48078", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANAYA,  PEDRO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDABLO II,  HUMBERTO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDALUZ,  STEPHANIE A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "36036", "department": "FINANCE", "job_titles": "PARKING ENFORCEMENT AIDE"}
+{"name": "ANDAVERDE III,  FEDERICO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "104628", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ANDAVIS,  CHRISTOPHER ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "95712", "department": "OEMC", "job_titles": "FIRE COMMUNICATIONS OPERATOR II"}
+{"name": "ANDER,  PERRY A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84516", "department": "WATER MGMNT", "job_titles": "WATER CHEMIST II"}
+{"name": "ANDERSEN,  CHRIS E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "98052", "department": "POLICE", "job_titles": "POLICE OFFICER (ASGND AS MOUNTED PATROL OFFICER)"}
+{"name": "ANDERSEN,  CHRISTOPHER ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDERSEN,  JEREMY C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDERSEN,  MARK A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "111474", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ANDERSEN,  MARK E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "107184", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARY DIVISION CHIEF"}
+{"name": "ANDERSEN,  MATTHEW P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "103350", "department": "FIRE", "job_titles": "FIRE ENGINEER-EMT"}
+{"name": "ANDERSEN,  ROBERT P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100980", "department": "FIRE", "job_titles": "FIRE ENGINEER"}
+{"name": "ANDERSON,  ANDREW J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "111456", "department": "WATER MGMNT", "job_titles": "DISTRICT SUPERINTENDENT OF WATER DISTRIBUTION"}
+{"name": "ANDERSON,  BRADLEY ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDERSON,  CHARLES E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100980", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS DETECTIVE)"}
+{"name": "ANDERSON,  CLOUTHA D", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "70092", "department": "PUBLIC LIBRARY", "job_titles": "HEAD LIBRARY CLERK"}
+{"name": "ANDERSON,  COREY ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDERSON,  COREY A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDERSON,  CORY ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDERSON,  CURTIS ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96720", "department": "GENERAL SERVICES", "job_titles": "MANAGER OF FLEET SERVICES"}
+{"name": "ANDERSON,  DARNETTA L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "92388", "department": "FAMILY & SUPPORT", "job_titles": "ACCOUNTANT III"}
+{"name": "ANDERSON,  DAVID C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "94824", "department": "BUILDINGS", "job_titles": "PROJECTS ADMINISTRATOR"}
+{"name": "ANDERSON,  DAVID R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDERSON,  DEBORAH L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "124428", "department": "DoIT", "job_titles": "CHIEF PROGRAMMER/ANALYST"}
+{"name": "ANDERSON,  DEBRA L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDERSON,  DIANA M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDERSON,  DOUGLAS T", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDERSON,  EDWARD A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "92274", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "ANDERSON,  EDWARD M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93300", "department": "PROCUREMENT", "job_titles": "SR PROCUREMENT SPECIALIST"}
+{"name": "ANDERSON,  ERIC J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "105816", "department": "TRANSPORTN", "job_titles": "COORDINATING ENGINEER I"}
+{"name": "ANDERSON,  ERIC M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "76548", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARIAN I"}
+{"name": "ANDERSON,  GARY M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDERSON,  GLEN E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "FIRE", "job_titles": "FIREFIGHTER"}
+{"name": "ANDERSON,  HANNAH L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "83580", "department": "HEALTH", "job_titles": "PUBLIC HEALTH ADMINISTRATOR III"}
+{"name": "ANDERSON,  HOLLY P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "60084", "department": "LAW", "job_titles": "ASST CORPORATION COUNSEL"}
+{"name": "ANDERSON,  JACOB P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "91272", "department": "FIRE", "job_titles": "FIREFIGHTER/PARAMEDIC"}
+{"name": "ANDERSON,  JAMES E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "103932", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS DETECTIVE)"}
+{"name": "ANDERSON,  JAMES J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96060", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDERSON,  JASON ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48078", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDERSON,  JEROME L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96060", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDERSON,  JODY M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "70092", "department": "FAMILY & SUPPORT", "job_titles": "SUPPORT SERVICES COORD"}
+{"name": "ANDERSON,  JOE A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "92274", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "ANDERSON,  JOE E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "52524", "department": "CITY COUNCIL", "job_titles": "LEGISLATIVE AIDE"}
+{"name": "ANDERSON,  JOHN S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "FIRE", "job_titles": "FIREFIGHTER"}
+{"name": "ANDERSON JR,  ROY T", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93666", "department": "FIRE", "job_titles": "FIREFIGHTER"}
+{"name": "ANDERSON,  KEVIN B", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "136170", "department": "POLICE", "job_titles": "CAPTAIN"}
+{"name": "ANDERSON,  LAKISA S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDERSON,  LESTER J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "70620", "department": "BUSINESS AFFAIRS", "job_titles": "SENIOR BUSINESS CONSULTANT"}
+{"name": "ANDERSON,  LUCI A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "119196", "department": "WATER MGMNT", "job_titles": "DEPUTY COMMISSIONER"}
+{"name": "ANDERSON,  LUVENIA M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "60960", "department": "TRANSPORTN", "job_titles": "ADMIN ASST II - LABORERS"}
+{"name": "ANDERSON,  MARION D", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100980", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS CANINE HANDLER)"}
+{"name": "ANDERSON,  MAURICE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDERSON,  MICHAEL A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "104628", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ANDERSON,  MIGUEL ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDERSON,  PAUL D", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96060", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDERSON,  PAUL E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "FIRE", "job_titles": "FIREFIGHTER"}
+{"name": "ANDERSON,  QUINTUSSIA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "66948", "department": "HEALTH", "job_titles": "ADMINISTRATIVE ASST II"}
+{"name": "ANDERSON,  RHONDA F", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "77484", "department": "FAMILY & SUPPORT", "job_titles": "PROJECT COORD"}
+{"name": "ANDERSON,  RHONDA M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "41640", "department": "STREETS & SAN", "job_titles": "PROPERTY CUSTODIAN - AUTO POUND"}
+{"name": "ANDERSON,  RHONDA M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "104628", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ANDERSON,  RORY A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "98052", "department": "POLICE", "job_titles": "POLICE AGENT"}
+{"name": "ANDERSON,  ROY ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "97386", "department": "FIRE", "job_titles": "FIREFIGHTER"}
+{"name": "ANDERSON,  SHARON J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "92388", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARIAN III"}
+{"name": "ANDERSON,  STEPHEN R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "104628", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ANDERSON,  TEFFANY ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72696", "department": "HEALTH", "job_titles": "PUBLIC HEALTH ADMINISTRATOR III"}
+{"name": "ANDERSON,  THEODORE C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDERSON,  THOMAS E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "69948", "department": "AVIATION", "job_titles": "AVIATION SECURITY OFFICER"}
+{"name": "ANDERSON,  TODD R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "128970", "department": "FIRE", "job_titles": "AMBULANCE COMMANDER"}
+{"name": "ANDERSON,  TRACEY A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDERSON,  VICTOR O", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96060", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDERSON,  WESLEY ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDINO,  WILLIAM ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "97440", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS DETECTIVE)"}
+{"name": "ANDOLINO,  STEVE C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "95484", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "ANDONAEGUI,  ARTURO V", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDRADE,  DANIEL ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDRADE,  JAMES N", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96060", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDRADE,  LINDSEY ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48078", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDRADE,  MARK ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "103932", "department": "FIRE", "job_titles": "FIRE ENGINEER"}
+{"name": "ANDRAS,  GREGORY A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100980", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS DETECTIVE)"}
+{"name": "ANDREW,  CHERYL L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "69492", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARY ASSOCIATE"}
+{"name": "ANDREWS,  ADAM C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDREWS,  ANTHONY J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "111474", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ANDREWS,  ANTRINIUS ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDREWS-ARMISTEAD,  RHONDA C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "68220", "department": "BUSINESS AFFAIRS", "job_titles": "SENIOR BUSINESS CONSULTANT"}
+{"name": "ANDREWS,  DAVID ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDREWS,  DENISE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "130596", "department": "HEALTH", "job_titles": "NURSE PRACTITIONER"}
+{"name": "ANDREWS JR,  MARSHALL C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDREWS,  LISA M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "111474", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ANDREWS,  MARTIN L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "101712", "department": "TRANSPORTN", "job_titles": "LOAD DISPATCHER"}
+{"name": "ANDREWS SMITH,  MARSHA L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDRICH,  DAVID L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDROS,  ARTHUR N", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "112284", "department": "GENERAL SERVICES", "job_titles": "PROJECT MANAGER"}
+{"name": "ANDRUSHKO,  TARAS M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANDRUZZI JR,  JOSEPH J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "125190", "department": "POLICE", "job_titles": "LIEUTENANT"}
+{"name": "ANDUJAR,  DANIEL ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANELLO,  KATIE M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "94524", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS EVIDENCE TECHNICIAN)"}
+{"name": "ANELLO,  PHILLIP A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "114324", "department": "FIRE", "job_titles": "LIEUTENANT-EMT"}
+{"name": "ANGAROLA,  DANIEL R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "68220", "department": "FIRE", "job_titles": "SUPERVISING INVESTIGATOR"}
+{"name": "ANGARONE,  DEAN J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "FIRE", "job_titles": "FIREFIGHTER"}
+{"name": "ANGARONE,  JOANNA M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "59172", "department": "CITY COUNCIL", "job_titles": "ASST TO THE ALDERMAN"}
+{"name": "ANGARONE,  JOSEPH R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANGARONE,  KENNETH ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "170112", "department": "POLICE", "job_titles": "DEPUTY CHIEF"}
+{"name": "ANGELES,  RONALDO C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "63756", "department": "AVIATION", "job_titles": "AVIATION SECURITY OFFICER"}
+{"name": "ANGELETTI,  DIANE E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "39876", "department": "HUMAN RESOURCES", "job_titles": "CLERK III"}
+{"name": "ANGEL,  GLENN K", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "97368", "department": "LAW", "job_titles": "ASST CORPORATION COUNSEL SUPVSR"}
+{"name": "ANGELO,  DEAN ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "103932", "department": "POLICE", "job_titles": "POLICE OFFICER (ASSIGNED AS DETECTIVE)"}
+{"name": "ANGELO,  DEAN C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANGELOPOULOS,  JOHN T", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANGEL,  SAMUEL ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "76266", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANGLADA,  RAFAEL ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93300", "department": "POLICE", "job_titles": "INFORMATION SERVICES COORD"}
+{"name": "ANGLEMIRE,  MICHAEL T", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "54972", "department": "TRANSPORTN", "job_titles": "BRIDGE OPERATOR"}
+{"name": "ANGSTEN,  JAMES E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANGUIANO,  JOCELINE P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48078", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANGUIANO,  RICARDO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "72510", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANGUIANO,  SARA I", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "95292", "department": "FINANCE", "job_titles": "DIR OF ACCOUNTING"}
+{"name": "ANGUS,  KEVIN P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "117996", "department": "FIRE", "job_titles": "LIEUTENANT-EMT"}
+{"name": "ANGUS,  WILLIAM J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AN,  NICK H", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "105720", "department": "TRANSPORTN", "job_titles": "TRAFFIC ENGINEER V"}
+{"name": "ANNIS,  CHARLES L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93666", "department": "FIRE", "job_titles": "FIREFIGHTER"}
+{"name": "ANNOR,  SAMUEL ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANNUNZIO,  EDWARD A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANOSIKE,  MORGAN U", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "52968", "department": "FINANCE", "job_titles": "PARKING ENFORCEMENT AIDE"}
+{"name": "ANOSIKE-NNAJI,  THERESA C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "68796", "department": "FINANCE", "job_titles": "ACCOUNTANT II"}
+{"name": "ANSARI,  SARAH S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "102084", "department": "INSPECTOR GEN", "job_titles": "ASST INSPECTOR GENERAL"}
+{"name": "ANSELMO,  JAMIE R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANSIER,  MICHAEL A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "89148", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "ANSON,  BENJAMIN W", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "70020", "department": "HUMAN RESOURCES", "job_titles": "CLASSIFICATION & COMPENSATION ANALYST"}
+{"name": "ANTABLIAN,  MICHELLE A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "60972", "department": "CITY CLERK", "job_titles": "PAYMENT SERVICES REPRESENTATIVE"}
+{"name": "ANTESBERGER,  BRENT P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANTHONY,  CHERYL M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "38376", "department": "POLICE", "job_titles": "POLICE ADMINISTRATIVE CLERK"}
+{"name": "ANTHONY,  GWANA R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "107988", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ANTHONY JR,  LAMONT E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "56304", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT (RECRUIT)"}
+{"name": "ANTHONY SANDERS,  DEBRA L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "66948", "department": "PROCUREMENT", "job_titles": "CLERK IV"}
+{"name": "ANTICO,  JOSEPH B", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANTONACCI,  JOHN M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "114552", "department": "AVIATION", "job_titles": "GENERAL MANAGER OF AIRPORT OPERATIONS"}
+{"name": "ANTON,  CONSTANTINE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "66984", "department": "HEALTH", "job_titles": "SENIOR EMERGENCY MANAGEMENT COORD"}
+{"name": "ANTONIAZZI,  BARRY M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "91080", "department": "FIRE", "job_titles": "PARAMEDIC I/C"}
+{"name": "ANTONIAZZI,  GINO A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANTONIK,  RYAN M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "89148", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "ANTONIO,  EMMANUEL Q", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "57648", "department": "FINANCE", "job_titles": "AUDITOR I"}
+{"name": "ANTONOW,  GREGORY R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "92274", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "ANTONSEN,  RICHARD ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ANTONUCCI WHITE,  JILL L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93300", "department": "LAW", "job_titles": "SUPERVISING PARALEGAL"}
+{"name": "ANTROBUS,  ERIC ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "105804", "department": "FIRE", "job_titles": "FIREFIGHTER (PER ARBITRATORS AWARD)-PARAMEDIC"}
+{"name": "ANZALDO,  JORGE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "FIRE", "job_titles": "PARAMEDIC"}
+{"name": "APACIBLE,  JONATHAN B", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "APARICIO,  JOSE M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "96984", "department": "BUILDINGS", "job_titles": "BUILDING/CONSTRUCTION INSPECTOR"}
+{"name": "APARO,  MATTHEW R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "56304", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT (RECRUIT)"}
+{"name": "APIECZONEK JR,  LES R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "APONTE,  IRMA M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "58476", "department": "CITY COUNCIL", "job_titles": "STAFF ASST TO THE ALDERMAN"}
+{"name": "APORONGAO,  ALAIN ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "APOSTOLOS,  CONSTANTIN E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "97056", "department": "BUSINESS AFFAIRS", "job_titles": "REVENUE INVESTIGATOR II"}
+{"name": "APPEL,  DAVID L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "APPELHANS,  MICHAEL D", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48078", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "APURI,  HARINATH B", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "70092", "department": "POLICE", "job_titles": "TIMEKEEPER - CPD"}
+{"name": "APURI,  PRAMEELA K", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "60852", "department": "POLICE", "job_titles": "DETENTION AIDE"}
+{"name": "AQUINO,  REYNALDO A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "92028", "department": "GENERAL SERVICES", "job_titles": "PROJECTS ADMINISTRATOR"}
+{"name": "ARAGON,  DANIEL ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ARAGONES,  HIRAM ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "FIRE", "job_titles": "PARAMEDIC"}
+{"name": "ARAMBULA,  SAUL ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "107988", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ARAMBURU,  DALLAS P", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "56304", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT (RECRUIT)"}
+{"name": "ARANDA,  ARTHUR ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93666", "department": "FIRE", "job_titles": "FIREFIGHTER"}
+{"name": "ARANDA,  ERICA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "63756", "department": "AVIATION", "job_titles": "AVIATION SECURITY OFFICER"}
+{"name": "ARANDA,  ROSARIO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "69948", "department": "OEMC", "job_titles": "POLICE COMMUNICATIONS OPERATOR I"}
+{"name": "ARASZEWSKI,  BARBARA L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "89076", "department": "DoIT", "job_titles": "SUPVSR OF PERSONNEL SERVICES"}
+{"name": "ARAUJO,  JOHN C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "52968", "department": "FINANCE", "job_titles": "PARKING ENFORCEMENT AIDE"}
+{"name": "ARAUJO,  MARIO E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "92274", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "ARCE,  DANIELLA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ARCE,  GILBERT ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100980", "department": "POLICE", "job_titles": "POLICE OFFICER/EXPLSV DETECT K9 HNDLR"}
+{"name": "ARCEO,  LEW M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ARCE,  RAYMOND J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48078", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ARCHAMBAULT,  PATRICIA A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "63468", "department": "FINANCE", "job_titles": "EXECUTIVE SECRETARY II"}
+{"name": "ARCHAMBEAULT,  EDWARD H", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "73440", "department": "WATER MGMNT", "job_titles": "ADMINISTRATIVE ASST III"}
+{"name": "ARCHER,  KENDRA R", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ARCHER,  STEVEN K", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ARCHILLA,  IRIS G", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "70620", "department": "HUMAN RELATIONS", "job_titles": "ASST TO THE COMMISSIONER"}
+{"name": "ARCHULETA,  RAYMOND ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ARCILLAS,  MARK J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ARCOS,  XAVIER ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "63828", "department": "STREETS & SAN", "job_titles": "SANITATION CLERK"}
+{"name": "ARDITO,  KEVIN B", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "93354", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ARDOLINO,  NICHOLAS ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48078", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AREIZAGA,  NOEL ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AREKAT,  DARWISH A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ARELLANO,  ALESIA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "92388", "department": "FINANCE", "job_titles": "ACCOUNTANT III"}
+{"name": "ARELLANO,  HECTOR A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "92088", "department": "INSPECTOR GEN", "job_titles": "INVESTIGATOR III - IG"}
+{"name": "ARELLANO,  JANNET ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "48078", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ARELLANO,  JASON ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ARELLANO,  MIGUEL A", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ARELLANO,  SOFIA M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ARENA,  JOHN S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "109993.92", "department": "CITY COUNCIL", "job_titles": "ALDERMAN"}
+{"name": "ARENAS,  ISABEL C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "60972", "department": "PUBLIC LIBRARY", "job_titles": "HEAD LIBRARY CLERK"}
+{"name": "ARENDS,  JASON M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "90024", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ARENDS,  SHANNON M", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100776", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARIAN IV"}
+{"name": "ARENS,  ROBERT J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "95484", "department": "FIRE", "job_titles": "FIREFIGHTER-EMT"}
+{"name": "ARENS,  STEPHANIE L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "100776", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARIAN IV"}
+{"name": "ARES,  MICHAEL ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "AREVALO,  JOAN E", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "60972", "department": "PUBLIC LIBRARY", "job_titles": "ADMINISTRATIVE ASST II"}
+{"name": "ARGIRIS,  CONSTANTINE J", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "55656", "department": "CITY COUNCIL", "job_titles": "STAFF ASST TO THE ALDERMAN"}
+{"name": "ARGUELLES,  REBECCA ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "111474", "department": "POLICE", "job_titles": "SERGEANT"}
+{"name": "ARGUELLO,  BLANCHE L", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "101592", "department": "POLICE", "job_titles": "PROGRAM ANALYST"}
+{"name": "ARGUELLO,  FANNIE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ARGUETA,  VICKIE ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "65112", "department": "LAW", "job_titles": "ASST CORPORATION COUNSEL"}
+{"name": "ARGUETA,  VILMA S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ARGUMEDO,  LETISCIA S", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "76266", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ARGYROPOULOS,  JAMES ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "80016", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ARGYROPOULOS,  NICK ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ARIAS,  EDGARD ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "49908", "department": "AVIATION", "job_titles": "AVIATION SECURITY OFFICER"}
+{"name": "ARIAS JR,  EPIGMENIO ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "45468", "department": "POLICE", "job_titles": "DETENTION AIDE"}
+{"name": "ARIAS SUL,  MARYLN C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "101592", "department": "DISABILITIES", "job_titles": "ADMINISTRATIVE SERVICES OFFICER II"}
+{"name": "ARIAS,  YOLANDA C", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "85008", "department": "CULTURAL AFFAIRS", "job_titles": "ASST TO THE COMMISSIONER"}
+{"name": "ARIF-ABRAHAM,  FATIMA Z", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "84054", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ARIMA,  BENJAMIN H", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "FIRE", "job_titles": "FIREFIGHTER"}
+{"name": "ARIZA,  ROY ", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "87006", "department": "POLICE", "job_titles": "POLICE OFFICER"}
+{"name": "ARIZZI,  BRIAN T", "salary_or_hourly": "Salary", "full_or_part_time": "F", "annual_salary": "92556", "department": "AVIATION", "job_titles": "AIRPORT OPERATIONS SUPVSR II"}

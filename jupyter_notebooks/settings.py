@@ -20,90 +20,77 @@ RESOURCE_METHODS = ['GET', 'POST', 'DELETE']
 # individual items  (defaults to read-only item access).
 ITEM_METHODS = ['GET', 'PATCH', 'PUT', 'DELETE']
 
-# APi for users
-users = {
-    # 'title' tag used in item links. Defaults to the resource title minus
-    # the final, plural 's' (works fine in most cases but not for 'people')
-    'item_title': 'user',
+# API for salaried employees
+salaried = {
+    "item_title": "salaried_employees",
 
-    # by default the standard item entry point is defined as
-    # '/people/<ObjectId>'. We leave it untouched, and we also enable an
-    # additional read-only entry point. This way consumers can also perform
-    # GET requests at '/people/<lastname>'.
-    'additional_lookup': {
+    "additional_lookup": {
         'url': 'regex("[\w]+")',
-        'field': 'username'
+        'field': 'name'   
     },
 
-    # We choose to override global cache-control directives for this resource.
-    'cache_control': 'max-age=10,must-revalidate',
-    'cache_expires': 10,
+    "resource_methods": ["GET", "POST"],
 
-    # most global settings can be overridden at resource level
-    'resource_methods': ['GET', 'POST'],
-
-    'schema': {
-        'firstname': {
-            'type': 'string',
-            'minlength': 1,
-            'maxlength': 10,
-        },
-
-        'lastname': {
-            'type': 'string',
-            'minlength': 1,
-            'maxlength': 15,
-        },
-
-        "username": {
-            "type": "string",
-            'minlength': 3,
-            "maxlength": 15,
-            # talk about hard constraints! For the purpose of the demo
-            # 'lastname' is an API entry-point, so we need it to be unique.
-            'required': True,
-
-            # line below commented for testing purposes. don't want to 
-            # keep deleting documents in the 'users' collection
-            #'unique': True,
-        },
-
-        "password": {
+    "schema": {
+        "name": {
             "type": "string"
         },
 
-        # 'role' is a list, and can only contain values from 'allowed'.
-       'role': {
-            'type': 'list',
-            'allowed': ["author", "contributor", "copy"],
+        "salary_or_hourly": {
+            "type": "string"
         },
 
-        # An embedded 'strongly-typed' dictionary.
-        'location': {
-            'type': 'dict',
-            'schema': {
-                'address': {'type': 'string'},
-                'city': {'type': 'string'}
-            },
+        "full_or_part_time": {
+            "type": "string"
         },
+
+        "department": {
+            "type": "string"
+        },
+
+        "job_title": {
+            "type": "string"
+        }
     }
 }
 
-item = {
+hourly = {
+    "item_title": "hourly_employees",
+
+    "additional_lookup": {
+        'url': 'regex("[\w]+")',
+        'field': 'name'   
+    },
+
+    "resource_methods": ["GET", "POST"],
+
     "schema": {
-        "information": {
-            "type": "string",
-            "minlength": 1,
-            "maxlength": 3000
+        "typical_hours": {
+            "type": "string"
+        },
+        "name": {
+            "type": "string"
         },
 
-        "message": {
+        "salary_or_hourly": {
+            "type": "string"
+        },
+
+        "full_or_part_time": {
+            "type": "string"
+        },
+
+        "department": {
+            "type": "string"
+        },
+
+        "job_title": {
             "type": "string"
         }
     }
 }
 
 DOMAIN = {
-    'users': users,
-    "item": item,
+    'salaried': salaried,
+    "hourly": hourly,
 }

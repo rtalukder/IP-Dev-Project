@@ -1,0 +1,216 @@
+{"typical_hours": "35", "name": "FITCH,  JORDAN M", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "LAW", "job_titles": "LAW CLERK", "hourly_rate": "14.51"}
+{"typical_hours": "20", "name": "ABASCAL,  REECE E", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "OEMC", "job_titles": "TRAFFIC CONTROL AIDE-HOURLY", "hourly_rate": "19.66"}
+{"typical_hours": "40", "name": "ABBATACOLA,  ROBERT J", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "ELECTRICAL MECHANIC", "hourly_rate": "46.1"}
+{"typical_hours": "40", "name": "ABBATE,  JOSEPH L ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "20", "name": "ABBOTT,  BETTY L", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "FAMILY & SUPPORT", "job_titles": "FOSTER GRANDPARENT", "hourly_rate": "2.65"}
+{"typical_hours": "20", "name": "ABDULLAH,  LAKENYA N", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "OEMC", "job_titles": "CROSSING GUARD", "hourly_rate": "17.5"}
+{"typical_hours": "40", "name": "ABDULLAH,  RASHAD ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "GENERAL SERVICES", "job_titles": "ELECTRICAL MECHANIC-AUTO-POLICE MTR MNT", "hourly_rate": "46.1"}
+{"typical_hours": "40", "name": "ABDUL-SHAKUR,  TAHIR ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "GENERAL LABORER - DSS", "hourly_rate": "20.77"}
+{"typical_hours": "40", "name": "ABERCROMBIE,  TIMOTHY ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "20", "name": "ABIOYE,  ADEWOLE A", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARY ASSOCIATE - HOURLY", "hourly_rate": "25.1"}
+{"typical_hours": "40", "name": "ABRAMS,  DANIELLE T", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "40", "name": "ABRAMS,  SAMUEL A", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ABREU,  DILAN ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "SEWER BRICKLAYER", "hourly_rate": "44.88"}
+{"typical_hours": "40", "name": "ABREU,  EDWIN ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "TREE TRIMMER", "hourly_rate": "37.25"}
+{"typical_hours": "40", "name": "ABRONS,  KENNETH L", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "ELECTRICAL MECHANIC", "hourly_rate": "46.1"}
+{"typical_hours": "40", "name": "ABUHASHISH,  AWWAD ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "PLUMBER", "hourly_rate": "48.25"}
+{"typical_hours": "40", "name": "ACCARDO,  ANTHONY D", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "CONSTRUCTION LABORER", "hourly_rate": "40.2"}
+{"typical_hours": "40", "name": "ACCIARI,  NICHOLAS B", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "MOTOR TRUCK DRIVER", "hourly_rate": "36.13"}
+{"typical_hours": "40", "name": "ACEVEDO,  JAVIER ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "TRANSPORTN", "job_titles": "ASPHALT LABORER", "hourly_rate": "40.2"}
+{"typical_hours": "40", "name": "ACEVEDO,  STEVEN A", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "28.48"}
+{"typical_hours": "20", "name": "ACKLIN,  QIANA D", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "OEMC", "job_titles": "CROSSING GUARD", "hourly_rate": "17.5"}
+{"typical_hours": "40", "name": "ACOSTA,  PABLO S", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "40", "name": "ACRES,  ANTHONY E", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "GENERAL SERVICES", "job_titles": "CONSTRUCTION LABORER", "hourly_rate": "40.2"}
+{"typical_hours": "40", "name": "ADAIR,  STEVEN ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "40", "name": "ADAMCZYK JR,  JAN ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "FINANCE", "job_titles": "BOOTER - PARKING", "hourly_rate": "32.25"}
+{"typical_hours": "40", "name": "ADAME,  PEDRO ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "CUSTODIAL WORKER", "hourly_rate": "21.2"}
+{"typical_hours": "40", "name": "ADAM,  MICHAEL A", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "TRANSPORTN", "job_titles": "MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ADAMS,  ERWIN ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "TRANSPORTN", "job_titles": "ASPHALT LABORER", "hourly_rate": "40.2"}
+{"typical_hours": "40", "name": "ADAMS,  GARY W", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "40", "name": "ADAMS,  KRYSTA ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "GENERAL LABORER - DSS", "hourly_rate": "20.12"}
+{"typical_hours": "20", "name": "ADAMS,  MARJORIE E", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARY PAGE", "hourly_rate": "13.15"}
+{"typical_hours": "40", "name": "ADAMS,  MICHAEL J", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "GENERAL SERVICES", "job_titles": "WATCHMAN", "hourly_rate": "21.98"}
+{"typical_hours": "40", "name": "ADAMS,  QUAN R", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "20", "name": "ADAMS,  ROSITA ", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "OEMC", "job_titles": "CROSSING GUARD - PER CBA", "hourly_rate": "15.07"}
+{"typical_hours": "40", "name": "ADAMS,  SHEILA ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "GENERAL LABORER - DSS", "hourly_rate": "19.5"}
+{"typical_hours": "10", "name": "ADAMS,  TALMISE ", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "STREETS & SAN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "28.48"}
+{"typical_hours": "40", "name": "ADCOCK,  TOMMY W", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "TRANSPORTN", "job_titles": "CONCRETE LABORER", "hourly_rate": "40.2"}
+{"typical_hours": "40", "name": "ADDANTE,  VINCENZO ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ADEWOLE,  KAREEM A", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "CONSTRUCTION LABORER", "hourly_rate": "40.2"}
+{"typical_hours": "20", "name": "ADLER,  LAURA R", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARY ASSOCIATE - HOURLY", "hourly_rate": "25.1"}
+{"typical_hours": "40", "name": "AGNEW,  ANTONIO E", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "AGSALUD,  FERNAN S", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "40", "name": "AGSALUD JR,  JUANITO S", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "40", "name": "AGUILAR,  EFRAIN ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "40", "name": "AGUILAR,  EVARISTO P", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "10", "name": "AGUILAR JR,  ROBERT ", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "STREETS & SAN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "32.04"}
+{"typical_hours": "40", "name": "AGUILAR,  JUANITA ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "AGUILAR,  ROBERT ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "AGUILERA,  JESUS ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "40", "name": "AGUILERA,  TONY ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "AGUIRRE,  ALEX ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "40", "name": "AGUIRRE,  JULIAN J", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "TRANSPORTN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "AHMAD,  FAROOQ ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "LABORER", "hourly_rate": "34.57"}
+{"typical_hours": "40", "name": "AINUDDIN,  SAL N", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "AINUDDIN,  ZAHID N", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "AITKEN,  CAMUHOO R", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "20", "name": "AJIBODU,  LINDA ", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "FAMILY & SUPPORT", "job_titles": "TITLE V PROGRAM TRAINEE I", "hourly_rate": "8.25"}
+{"typical_hours": "40", "name": "AKHTAR,  SYED J", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "GENERAL SERVICES", "job_titles": "OPERATING ENGINEER-GROUP A", "hourly_rate": "47.44"}
+{"typical_hours": "20", "name": "AKINES,  CHRISTOPHER A", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "OEMC", "job_titles": "TRAFFIC CONTROL AIDE-HOURLY", "hourly_rate": "19.66"}
+{"typical_hours": "40", "name": "AKINS,  LISA ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "40", "name": "AKINS,  LOU ANN ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "TRANSPORTN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "20", "name": "AL AMIN,  RASHEEDAH K", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "FAMILY & SUPPORT", "job_titles": "SENIOR COMPANION", "hourly_rate": "2.65"}
+{"typical_hours": "40", "name": "ALANIS,  OSCAR ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "GENERAL SERVICES", "job_titles": "MACHINIST (AUTOMOTIVE)", "hourly_rate": "46.35"}
+{"typical_hours": "40", "name": "ALBA,  SAUL B", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ALBERT,  LOUIS ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "32.59"}
+{"typical_hours": "40", "name": "ALBIN,  RAYMOND M", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "GENERAL SERVICES", "job_titles": "EQUIPMENT DISPATCHER", "hourly_rate": "36.22"}
+{"typical_hours": "40", "name": "ALBRECHT,  DANIEL R", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "GENERAL SERVICES", "job_titles": "MACHINIST (AUTOMOTIVE)", "hourly_rate": "46.35"}
+{"typical_hours": "40", "name": "ALCALA,  JOSE P", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "CONSTRUCTION LABORER", "hourly_rate": "40.2"}
+{"typical_hours": "10", "name": "ALCALA,  LOUIS A", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "STREETS & SAN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "28.48"}
+{"typical_hours": "40", "name": "ALCALA,  RUBEN ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "20", "name": "ALCANTARA,  JOVITA L", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "OEMC", "job_titles": "CROSSING GUARD", "hourly_rate": "17.5"}
+{"typical_hours": "20", "name": "ALCANTARA,  ROSIO ", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "OEMC", "job_titles": "CROSSING GUARD - PER CBA", "hourly_rate": "14.4"}
+{"typical_hours": "40", "name": "ALCANTAR,  DENISE G", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ALCANTAR,  RAMIRO ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "TRANSPORTN", "job_titles": "LAMP MAINTENANCE WORKER", "hourly_rate": "30.51"}
+{"typical_hours": "40", "name": "ALDANA,  J F", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "CONSTRUCTION LABORER", "hourly_rate": "40.2"}
+{"typical_hours": "40", "name": "ALEGADO,  SAMUEL M", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "OPERATING ENGINEER-GROUP C", "hourly_rate": "45.07"}
+{"typical_hours": "20", "name": "ALEXANDER,  ANGELA ", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "OEMC", "job_titles": "TRAFFIC CONTROL AIDE-HOURLY", "hourly_rate": "19.66"}
+{"typical_hours": "40", "name": "ALEXANDER,  CALVIN ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ALEXANDER,  CLEMMIE ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "TRANSPORTN", "job_titles": "LABORER", "hourly_rate": "40.2"}
+{"typical_hours": "20", "name": "ALEXANDER,  DORIS A", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "OEMC", "job_titles": "CROSSING GUARD", "hourly_rate": "19.19"}
+{"typical_hours": "40", "name": "ALEXANDER,  KEVIN ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "PLUMBER", "hourly_rate": "48.25"}
+{"typical_hours": "20", "name": "ALEXANDER,  LORIE J", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "OEMC", "job_titles": "CROSSING GUARD", "hourly_rate": "17.5"}
+{"typical_hours": "40", "name": "ALEXANDER,  MARK A", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "20", "name": "ALEXANDER,  MARY F", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "FAMILY & SUPPORT", "job_titles": "FOSTER GRANDPARENT", "hourly_rate": "2.65"}
+{"typical_hours": "20", "name": "ALEXANDER,  ROCHELLE D", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "OEMC", "job_titles": "CROSSING GUARD", "hourly_rate": "20.11"}
+{"typical_hours": "40", "name": "ALEXANDER,  VERONICA J", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "40", "name": "ALFICH,  SCOTT ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "HOISTING ENGINEER", "hourly_rate": "49.1"}
+{"typical_hours": "20", "name": "ALFORD,  LINDA D", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "OEMC", "job_titles": "CROSSING GUARD", "hourly_rate": "17.5"}
+{"typical_hours": "40", "name": "ALFRED,  TIARA M", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "CUSTODIAL WORKER", "hourly_rate": "14.75"}
+{"typical_hours": "20", "name": "ALI,  ARMANDA ", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "OEMC", "job_titles": "CROSSING GUARD", "hourly_rate": "18.34"}
+{"typical_hours": "40", "name": "ALIASI,  ERMINIO ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "CONSTRUCTION LABORER", "hourly_rate": "40.2"}
+{"typical_hours": "40", "name": "ALICEA,  ANGEL R", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "OPERATING ENGINEER-GROUP A", "hourly_rate": "47.44"}
+{"typical_hours": "40", "name": "ALICEA JR,  FELIX ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "LABORER", "hourly_rate": "34.57"}
+{"typical_hours": "40", "name": "ALI,  FARI ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "40", "name": "ALINOVICH,  PETER A", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "GENERAL SERVICES", "job_titles": "OPERATING ENGINEER-GROUP A", "hourly_rate": "47.44"}
+{"typical_hours": "40", "name": "ALI,  SYED H", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "CONSTRUCTION LABORER", "hourly_rate": "40.2"}
+{"typical_hours": "20", "name": "ALI,  SYED S", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "POLICE", "job_titles": "POLICE CADET", "hourly_rate": "9.46"}
+{"typical_hours": "40", "name": "ALLEGRINI,  NICK ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "TRANSPORTN", "job_titles": "CEMENT FINISHER", "hourly_rate": "44.25"}
+{"typical_hours": "40", "name": "ALLEMAN,  ROBERT R", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "OPERATING ENGINEER-GROUP A", "hourly_rate": "47.44"}
+{"typical_hours": "10", "name": "ALLEN,  CASSANDRA ", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "STREETS & SAN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "32.04"}
+{"typical_hours": "40", "name": "ALLEN,  DALPHINE ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "GENERAL SERVICES", "job_titles": "WATCHMAN", "hourly_rate": "21.98"}
+{"typical_hours": "20", "name": "ALLEN,  DONNIE ", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "OEMC", "job_titles": "TRAFFIC CONTROL AIDE-HOURLY", "hourly_rate": "19.66"}
+{"typical_hours": "20", "name": "ALLEN,  MARIE ", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "OEMC", "job_titles": "CROSSING GUARD", "hourly_rate": "22.14"}
+{"typical_hours": "40", "name": "ALLEN,  MELVIN ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "20", "name": "ALLEN,  MYRA B", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "OEMC", "job_titles": "CROSSING GUARD", "hourly_rate": "18.34"}
+{"typical_hours": "20", "name": "ALLEN,  NAJJA T", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARY ASSOCIATE - HOURLY", "hourly_rate": "25.1"}
+{"typical_hours": "40", "name": "ALLEN,  RICHARD ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ALLEN,  ROBERT ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "MACHINIST", "hourly_rate": "46.35"}
+{"typical_hours": "40", "name": "ALLEN,  ROBERT G", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ALLEN,  ROBERT L", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ALLEN,  RYSHON C", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "AIRPORT MAINTENANCE FOREMAN", "hourly_rate": "35.57"}
+{"typical_hours": "20", "name": "ALLEN,  SAHID J", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "OEMC", "job_titles": "TRAFFIC CONTROL AIDE-HOURLY", "hourly_rate": "19.66"}
+{"typical_hours": "10", "name": "ALLEN,  TARRON ", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "STREETS & SAN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ALLEN,  TIMOTHY ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "40", "name": "ALLEN,  TYREE D", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "40", "name": "ALLEN,  WILLIAM ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "GENERAL LABORER - DSS", "hourly_rate": "21.43"}
+{"typical_hours": "40", "name": "ALLEN,  WILLIAM L", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "40", "name": "ALLEYNE,  HATTIE ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ALLISON,  JACOB M", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "GENERAL SERVICES", "job_titles": "MACHINIST (AUTOMOTIVE)", "hourly_rate": "46.35"}
+{"typical_hours": "40", "name": "ALLISON,  KENNETH ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "OPERATING ENGINEER-GROUP C", "hourly_rate": "45.07"}
+{"typical_hours": "40", "name": "ALMAGUER,  DAVID J", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ALMANZA,  JESUS ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "HOISTING ENGINEER", "hourly_rate": "49.1"}
+{"typical_hours": "40", "name": "ALMONTE,  JOSE ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "GENERAL SERVICES", "job_titles": "GARAGE ATTENDANT", "hourly_rate": "23.31"}
+{"typical_hours": "40", "name": "ALONSO,  KENNETH ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ALONZO,  GREGORY P", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "PAINTER", "hourly_rate": "44.55"}
+{"typical_hours": "20", "name": "ALONZO,  JESSICA M", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARY CLERK - HOURLY", "hourly_rate": "16.17"}
+{"typical_hours": "40", "name": "ALONZO,  JOAQUIN ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ALPERTO,  EVARISTO P", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "CONSTRUCTION LABORER", "hourly_rate": "40.2"}
+{"typical_hours": "20", "name": "ALSTON,  NICOLE T", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "OEMC", "job_titles": "TRAFFIC CONTROL AIDE-HOURLY", "hourly_rate": "19.66"}
+{"typical_hours": "40", "name": "ALUISE,  VINCENT G", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "FOREMAN OF WATER PIPE CONSTRUCTION", "hourly_rate": "50.25"}
+{"typical_hours": "40", "name": "ALVARADO,  CARLOS L", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "GENERAL SERVICES", "job_titles": "MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ALVARADO,  JESUS ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "40", "name": "ALVARADO,  JORGE M", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "38.33"}
+{"typical_hours": "40", "name": "ALVARADO,  JOSE M", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "35", "name": "ALVAREZ,  DANIELLE M", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "LAW", "job_titles": "LAW CLERK", "hourly_rate": "14.51"}
+{"typical_hours": "40", "name": "ALVAREZ,  JESUS ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ALVAREZ,  JOSEPH M", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ALVAREZ JR,  RAUL ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "10", "name": "ALVAREZ,  JUAN ", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "STREETS & SAN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "28.48"}
+{"typical_hours": "40", "name": "ALVAREZ,  MARCO A", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ALVAREZ,  MARIA D", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ALVAREZ,  ORLANDO ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ALVAREZ,  RAMON ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "40", "name": "ALVAREZ,  VICENTE ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "40", "name": "ALVIS,  VIDETTE A", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "GENERAL SERVICES", "job_titles": "MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ALVIZU,  RAYMOND M", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "20", "name": "AMADOR,  BIANCA ", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "CITY COUNCIL", "job_titles": "LEGISLATIVE AIDE", "hourly_rate": "12"}
+{"typical_hours": "40", "name": "AMARO,  KENNETH ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "TRANSPORTN", "job_titles": "MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "AMBURGEY,  MARK M", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "GENERAL SERVICES", "job_titles": "FRM OF ELECTRICAL MECHANICS (AUTO)", "hourly_rate": "49.1"}
+{"typical_hours": "40", "name": "AMELIO,  RALPH C", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "AMRAEN,  DAVID J", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "GENERAL SERVICES", "job_titles": "FOREMAN OF HOISTING ENGINEERS", "hourly_rate": "53.1"}
+{"typical_hours": "40", "name": "ANASTASOF,  FRANK G", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "TREE TRIMMER", "hourly_rate": "37.25"}
+{"typical_hours": "40", "name": "ANDERSEN III,  ROBERT J", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "28.48"}
+{"typical_hours": "40", "name": "ANDERSEN JR,  ROBERT J", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ANDERSEN,  WALTER J", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ANDERS,  KEVIN R", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "MOTOR TRUCK DRIVER", "hourly_rate": "36.13"}
+{"typical_hours": "40", "name": "ANDERSON,  ALONZO ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "20", "name": "ANDERSON,  BRANDON W", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARY PAGE", "hourly_rate": "12.49"}
+{"typical_hours": "40", "name": "ANDERSON,  DAVID C", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "SEWER BRICKLAYER", "hourly_rate": "44.88"}
+{"typical_hours": "40", "name": "ANDERSON,  DERRICK W", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "20", "name": "ANDERSON,  DIANE G", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "OEMC", "job_titles": "CROSSING GUARD", "hourly_rate": "20.11"}
+{"typical_hours": "40", "name": "ANDERSON,  DONALD ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "FOREMAN OF WATER PIPE CONSTRUCTION", "hourly_rate": "50.25"}
+{"typical_hours": "20", "name": "ANDERSON,  ELIZER ", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "OEMC", "job_titles": "TRAFFIC CONTROL AIDE-HOURLY", "hourly_rate": "19.66"}
+{"typical_hours": "40", "name": "ANDERSON,  HARVEY ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "WATER METER MACHINIST - TRAINEE", "hourly_rate": "24.42"}
+{"typical_hours": "10", "name": "ANDERSON,  HENRY ", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "STREETS & SAN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "28.48"}
+{"typical_hours": "40", "name": "ANDERSON,  IVY L", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "ASST CHIEF OPERATING ENGINEER", "hourly_rate": "52.18"}
+{"typical_hours": "40", "name": "ANDERSON JR,  ERNEST L", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "CONSTRUCTION LABORER", "hourly_rate": "40.2"}
+{"typical_hours": "40", "name": "ANDERSON,  KEVIN M", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "GENERAL LABORER - DSS", "hourly_rate": "19.5"}
+{"typical_hours": "40", "name": "ANDERSON,  LUIS F", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "OPERATING ENGINEER-GROUP A", "hourly_rate": "47.44"}
+{"typical_hours": "40", "name": "ANDERSON,  LUTHER ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "TRANSPORTN", "job_titles": "CONCRETE LABORER", "hourly_rate": "40.2"}
+{"typical_hours": "40", "name": "ANDERSON,  MALINDA ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ANDERSON,  MARK R", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "TRANSPORTN", "job_titles": "ELECTRICAL MECHANIC", "hourly_rate": "46.1"}
+{"typical_hours": "20", "name": "ANDERSON,  OLIVER ", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "OEMC", "job_titles": "TRAFFIC CONTROL AIDE-HOURLY", "hourly_rate": "19.66"}
+{"typical_hours": "40", "name": "ANDERSON,  PAUL L", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "20", "name": "ANDERSON,  ROSLYN ", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "FAMILY & SUPPORT", "job_titles": "FOSTER GRANDPARENT", "hourly_rate": "2.65"}
+{"typical_hours": "40", "name": "ANDERSON,  SALLY A", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "20", "name": "ANDERSON,  TAMMY T", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "OEMC", "job_titles": "CROSSING GUARD - PER CBA", "hourly_rate": "13.8"}
+{"typical_hours": "40", "name": "ANDERSON,  TARIQ A", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "OPERATING ENGINEER-GROUP A", "hourly_rate": "47.44"}
+{"typical_hours": "40", "name": "ANDERSON,  TEDDY R", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "40", "name": "ANDERSON,  THOMAS ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "EMERGENCY CREW DISPATCHER", "hourly_rate": "40.2"}
+{"typical_hours": "40", "name": "ANDERSON,  THOMAS R", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "40", "name": "ANDRADE,  PASCUALA Y", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ANDREWS,  CLARENCE J", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "40", "name": "ANDREWS,  MICHAEL R", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "CONSTRUCTION LABORER", "hourly_rate": "40.2"}
+{"typical_hours": "20", "name": "ANDREWS,  RISHAUNDA M", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARY PAGE", "hourly_rate": "13.15"}
+{"typical_hours": "40", "name": "ANDREWS,  SARGON A", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ANDRIACCHI,  JAMES J", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "TRANSPORTN", "job_titles": "ASPHALT FOREMAN", "hourly_rate": "41.1"}
+{"typical_hours": "20", "name": "ANGELILLI,  DENISE ", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "OEMC", "job_titles": "CROSSING GUARD - PER CBA", "hourly_rate": "14.4"}
+{"typical_hours": "40", "name": "ANGELILLI,  VINCE J", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "PAINTER", "hourly_rate": "44.55"}
+{"typical_hours": "40", "name": "ANKUM,  CHARMAIN D", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "CONSTRUCTION LABORER", "hourly_rate": "40.2"}
+{"typical_hours": "40", "name": "ANNERINO,  ANTHONY ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "40", "name": "ANTHONY,  STEVEN C", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ANTHOS,  ROSS A", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "20", "name": "APEL,  JOHN F", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "AVIATION", "job_titles": "AVIATION SECURITY OFFICER - HOURLY", "hourly_rate": "22.13"}
+{"typical_hours": "40", "name": "APONTE,  WILFREDO ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "GENERAL SERVICES", "job_titles": "GLAZIER", "hourly_rate": "41.7"}
+{"typical_hours": "40", "name": "APOSTOLOPOALOS,  NIKOS ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "APOSTOLOS,  DIMITRIOS M", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "ASST CHIEF OPERATING ENGINEER", "hourly_rate": "52.18"}
+{"typical_hours": "40", "name": "APOSTOLOS,  GEORGE M", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "OPERATING ENGINEER-GROUP A", "hourly_rate": "47.44"}
+{"typical_hours": "20", "name": "APPLEBERRY,  JALISSA ", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "OEMC", "job_titles": "TRAFFIC CONTROL AIDE-HOURLY", "hourly_rate": "19.66"}
+{"typical_hours": "40", "name": "APPLEWHITE,  ALETTA ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "AQUINO,  ANTHONY M", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "40", "name": "AQUINO,  CANDELARIO ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "SIGN PAINTER", "hourly_rate": "37.45"}
+{"typical_hours": "40", "name": "ARAKELOV,  GEORGE ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "AVIATION", "job_titles": "OPERATING ENGINEER-GROUP C", "hourly_rate": "45.07"}
+{"typical_hours": "40", "name": "ARAMBULA,  MIGUEL ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
+{"typical_hours": "10", "name": "ARAMBURU JR,  DAVID ", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "STREETS & SAN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ARBAGEY,  EDWIN T", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "CONSTRUCTION LABORER", "hourly_rate": "40.2"}
+{"typical_hours": "40", "name": "ARCE,  ADRIAN T", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "CONSTRUCTION LABORER", "hourly_rate": "40.2"}
+{"typical_hours": "40", "name": "ARCE JR,  DAVID D", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ARCHER,  CHRISTOPHER J", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "POOL MOTOR TRUCK DRIVER", "hourly_rate": "35.6"}
+{"typical_hours": "40", "name": "ARCHIE,  ANDREA J", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "LABORER - APPRENTICE", "hourly_rate": "32.16"}
+{"typical_hours": "40", "name": "ARCIERI,  ROCCO ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "HOISTING ENGINEER", "hourly_rate": "49.1"}
+{"typical_hours": "40", "name": "ARDELEAN,  JOHN ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "CONSTRUCTION LABORER", "hourly_rate": "40.2"}
+{"typical_hours": "40", "name": "ARDELJAN,  MARINEL ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "GENERAL SERVICES", "job_titles": "AUTOMOTIVE PAINTER", "hourly_rate": "44.55"}
+{"typical_hours": "40", "name": "ARELLANO,  RAMON ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "WATER MGMNT", "job_titles": "CONSTRUCTION LABORER", "hourly_rate": "40.2"}
+{"typical_hours": "20", "name": "ARENAS,  ANA LUISA ", "salary_or_hourly": "Hourly", "full_or_part_time": "P", "department": "PUBLIC LIBRARY", "job_titles": "LIBRARY CLERK - HOURLY", "hourly_rate": "16.17"}
+{"typical_hours": "40", "name": "ARENAS,  FRANK ", "salary_or_hourly": "Hourly", "full_or_part_time": "F", "department": "STREETS & SAN", "job_titles": "SANITATION LABORER", "hourly_rate": "36.21"}
