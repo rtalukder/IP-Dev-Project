@@ -1,3 +1,3 @@
-# api_practice
+# IP Dev Project
 
-Storing Satori API keys and endpoints. Using this as a repo for all my practice.
+Repo for all my project work. This will only include source files and not the entire environment. 
