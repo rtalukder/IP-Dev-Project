@@ -19,7 +19,7 @@ def get_api_data():
 
 	file.close()
 
-	print("Data has been saved to 'IP Dev Project/jupyter_notebooks/data'")
+	print("Data has been saved to 'IP Dev Project/jupyter_notebooks/data/JSONdata'")
 
 # splitting JSON data from function above into salried and hourly employees
 def file_split():
@@ -35,6 +35,8 @@ def file_split():
 			hourly_file.write(JSON_item)
 		else:
 			salried_file.write(JSON_item)
+	
+	print("Files have been split into 'salariedJSON' and 'hourlyJSON' respectively.")
 
 # function to export JSON entried from salaried and hourly employees
 # into their respective collections in MongoDB 
@@ -42,47 +44,39 @@ def mongo_export():
 	salaried_url = "http://127.0.0.1:5000/salaried"
 	hourly_url = "http://127.0.0.1:5000/hourly"
 
-	# TODO: debug requests.requests portion of the code
-	#		look at the error message being spit out
+	# exporting salaried employee data to MongoDB in salaried collection
+	salary_file =  open("data/salariedJSON.txt", 'r')
 
-	# exproting salaried employee data to MongoDB in salaried collection
-	with open("data/salariedJSON.txt", 'r') as salary_file:
-		read_data = salary_file.readline()
+	for line in salary_file:
+		trimmed_JSON = line.strip('\n')
 
 		headers = {
 		    'content-type': "application/json",
-		    'cache-control': "no-cache",
-		    'postman-token': "58dd8d57-e4b0-4b36-39f5-4dbcd662755e"
 		    }
 
-		response = requests.request("POST", salaried_url, data= json.dumps(read_data), headers=headers)
-	
+		response = requests.request("POST", salaried_url, data= trimmed_JSON, headers=headers)
 		print(response.text)
 
 	salary_file.close()
 
-	# TODO: debug requests.requests portion of the code
-	#		look at the error message being spit out
+	# exporting hourly employee data to MongoDB in hourly collection
+	hourly_file = open("data/hourlyJSON.txt", 'r')
 
-	# exproting hourly employee data to MongoDB in hourly collection
-	with open("data/hourlyJSON.txt", 'r') as hourly_file:
-		read_data = hourly_file.readline()
+	for line in hourly_file:
+		trimmed_JSON = line.strip('\n')
 
 		headers = {
 		    'content-type': "application/json",
-		    'cache-control': "no-cache",
-		    'postman-token': "58dd8d57-e4b0-4b36-39f5-4dbcd662755e"
 		    }
 
-		response = requests.request("POST", hourly_url, data= json.dumps(read_data), headers=headers)	
-
+		response = requests.request("POST", hourly_url, data= trimmed_JSON, headers=headers)	
 		print(response.text)
 
 	hourly_file.close()
 
-	print("Exported to data to 'salaried' and 'hourly' collections in MongoDB.")
+	print("Exported data to 'salaried' and 'hourly' collections in MongoDB.")
 
 if __name__ == '__main__':
-	#get_api_data()
-	#file_split()
+	get_api_data()
+	file_split()
 	mongo_export()
