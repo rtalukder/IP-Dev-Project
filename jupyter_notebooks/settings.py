@@ -44,11 +44,15 @@ salaried = {
             "type": "string"
         },
 
+        "annual_salary": {
+            "type": "string"
+        },
+
         "department": {
             "type": "string"
         },
 
-        "job_title": {
+        "job_titles": {
             "type": "string"
         }
     }
@@ -84,13 +88,18 @@ hourly = {
             "type": "string"
         },
 
-        "job_title": {
+        "job_titles": {
+            "type": "string"
+        },
+
+        "hourly_rate": {
             "type": "string"
         }
+
     }
 }
 
 DOMAIN = {
-    'salaried': salaried,
+    "salaried": salaried,
     "hourly": hourly,
 }
