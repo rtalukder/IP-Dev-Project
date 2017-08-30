@@ -20,6 +20,9 @@ RESOURCE_METHODS = ['GET', 'POST', 'DELETE']
 # individual items  (defaults to read-only item access).
 ITEM_METHODS = ['GET', 'PATCH', 'PUT', 'DELETE']
 
+PAGINATION_LIMIT = 2000
+PAGINATION_DEFAULT = 2000
+
 # API for salaried employees
 salaried = {
     "item_title": "salaried_employees",
