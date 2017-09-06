@@ -72,20 +72,24 @@ users = {
             "type": "string"
         },
 
-        # 'role' is a list, and can only contain values from 'allowed'.
-       'role': {
-            'type': 'list',
-            'allowed': ["author", "contributor", "copy"],
-        },
+        "phone": {
+            "type": "string"
+        }
 
-        # An embedded 'strongly-typed' dictionary.
-        'location': {
-            'type': 'dict',
-            'schema': {
-                'address': {'type': 'string'},
-                'city': {'type': 'string'}
-            },
-        },
+       #  # 'role' is a list, and can only contain values from 'allowed'.
+       # 'role': {
+       #      'type': 'list',
+       #      'allowed': ["author", "contributor", "copy"],
+       #  },
+
+       #  # An embedded 'strongly-typed' dictionary.
+       #  'location': {
+       #      'type': 'dict',
+       #      'schema': {
+       #          'address': {'type': 'string'},
+       #          'city': {'type': 'string'}
+       #      },
+       #  },
     }
 }
 
