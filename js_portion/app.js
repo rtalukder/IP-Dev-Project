@@ -1,11 +1,10 @@
 var express = require('express'),
 	path = require('path'),
 	request = require('request'),
+	bodyParser = require('body-parser'),
 	app = express();
 
 app.use(express.static(__dirname + "/public"));
-
-bodyParser = require('body-parser')
 
 app.set('views', path.join(__dirname + '/public/signup'));
 app.set('view engine', 'ejs');
@@ -29,17 +28,17 @@ app.get('/signup', function(req, res){
 	res.render('signup', {error:'','root':__dirname + '/public/signup'});
 });
 
-app.post('/register', function(req, res){
+app.post('/register', function(req, resp){
 	var _firstname 	= req.body.inputFirstName;
 	var _lastname 	= req.body.inputLastName;
-	var _username	= req.body.inputUserName;
+	var _username	= req.body.inputUsername;
 	var _password	= req.body.inputPassword;
 	var _phone		= req.body.inputPhone;
 /*	var _role		= req.body.role;
 	var _location	= req.body.location;*/
 
 	var options = {
-	url : '127.0.0.1:5000/user',
+	url : 'http://127.0.0.1:5000/user/',
 	method: 'POST',
 	auth: {
 		user: 'admin',
@@ -70,9 +69,7 @@ app.post('/register', function(req, res){
 	                    error: 'Username Already Exists!'
 	                })
 	            }
-	            return resp.render('signup', {
-	                error: result._issues.username
-	            })
+	            return resp.render('signup', {error: result._issues})
 	        } else {
 	            console.log('All good');
 	            resp.redirect('http://localhost:3000/#/signin');
