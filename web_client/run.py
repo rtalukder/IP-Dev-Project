@@ -18,6 +18,7 @@ class myBasicAuth(BasicAuth):
 		else:
 			return True
 
+
 if __name__ == '__main__':
 	app = Eve(auth = myBasicAuth)
 	app.run()
