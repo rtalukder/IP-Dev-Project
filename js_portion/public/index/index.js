@@ -1,3 +1,7 @@
+// Raquib Talukder
+// IP Development Project
+// index.js
+
 angular.module('myApp', [
   'ngRoute',
   'home',
@@ -9,3 +13,4 @@ angular.module('myApp', [
 config(['$routeProvider', function($routeProvider) {
   $routeProvider.otherwise({redirectTo: '/home'});
 }]);
+
