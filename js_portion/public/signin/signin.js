@@ -27,7 +27,7 @@ $scope.signIn = function(){
     $http.defaults.headers.common.Pragma = "no-cache";
     $http.defaults.headers.common['Authorization'] = 'Basic '+authdata;
     
-    $http({method: 'GET',cache: false, url: 'http://127.0.0.1:5000/user/'+ username}).
+    $http({method: 'GET',cache: false, url: 'http://127.0.0.1:5000/users/'+ username}).
             success(function(data, status, headers, config) {
         CommonProp.setUser(username);
         CommonProp.setUserAuth(authdata);

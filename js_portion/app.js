@@ -49,11 +49,11 @@ app.post('/register', function(req, resp) {
     var _password = req.body.inputPassword;
 
     var options = {
-        url: 'http://127.0.0.1:5000/user/',
+        url: 'http://127.0.0.1:5000/users/',
         method: 'POST',
         auth: {
             user: 'admin',
-            password: 'admin'
+            password: 'password'
         },
         formData: {
             firstname: _firstName,

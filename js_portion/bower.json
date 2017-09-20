@@ -1,0 +1,21 @@
+{
+  "name": "IP Dev Project",
+  "version": "1.0.0",
+  "authors": [
+    "Raquib Talukder <rtalukder@forsythe.com>"
+  ],
+  "main": "app.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-base64": "~2.0.3",
+    "angular-route": "~1.3.13",
+    "angularjs": "~1.3.13"
+  }
+}

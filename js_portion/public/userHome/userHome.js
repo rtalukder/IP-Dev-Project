@@ -19,7 +19,7 @@ angular.module('userHome', ['ngRoute','myAppService'])
 	$scope.deletion = {};
 	var auth = CommonProp.getUserAuth();
 	
-        var user = CommonProp.getUser();
+    var user = CommonProp.getUser();
 
 	var getAllTask = function(){
 		$scope.tasks = [];
@@ -34,8 +34,8 @@ angular.module('userHome', ['ngRoute','myAppService'])
 			console.log(data);
 			console.log(data._items);
 			for(var i=0;i<data._items.length;i++){
-				console.log(data._items[i].name);
-				$scope.tasks.push({'title': data._items[i].name,'id':data._items[i]._id,'tag':data._items[i]._etag});
+				console.log(data._items[i].information);
+				$scope.tasks.push({'title': data._items[i].information,'id':data._items[i]._id,'tag':data._items[i]._etag});
 			}
 			console.log($scope.tasks);
 			
@@ -62,7 +62,7 @@ angular.module('userHome', ['ngRoute','myAppService'])
 	   	$http.defaults.headers.common['Authorization'] = 'Basic '+auth;
 		$http.defaults.headers.common['If-Match'] = $scope.edit.tag;
 	    
-		$http({method: 'PATCH',cache: false, url: 'http://127.0.0.1:5000/item/'+ $scope.edit.id,data: { name: $scope.edit.task }}).
+		$http({method: 'PATCH',cache: false, url: 'http://127.0.0.1:5000/item/'+ $scope.edit.id,data: { information: $scope.edit.task }}).
 		    success(function(data, status, headers, config) {
 			$('#editModal').modal('hide');
 			getAllTask();
@@ -81,10 +81,10 @@ angular.module('userHome', ['ngRoute','myAppService'])
 
 	$scope.deleteTask = function(){
 		$http.defaults.headers.common = {"Access-Control-Request-Headers": "accept, origin, authorization"};
-	    	$http.defaults.headers.common = {"Access-Control-Expose-Headers": "Origin, X-Requested-With, Content-Type, Accept"};
+	    $http.defaults.headers.common = {"Access-Control-Expose-Headers": "Origin, X-Requested-With, Content-Type, Accept"};
 		$http.defaults.headers.common["Cache-Control"] = "no-cache";
-	    	$http.defaults.headers.common.Pragma = "no-cache";
-	    	$http.defaults.headers.common['Authorization'] = 'Basic '+auth;
+	    $http.defaults.headers.common.Pragma = "no-cache";
+	    $http.defaults.headers.common['Authorization'] = 'Basic '+auth;
 		$http.defaults.headers.common['If-Match'] = $scope.deletion.tag;
 
 		$http({method: 'DELETE',cache: false, url: 'http://127.0.0.1:5000/item/'+ $scope.deletion.id}).

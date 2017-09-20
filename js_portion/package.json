@@ -1,15 +1,26 @@
 {
-  "name": "web_client",
+  "name": "IP Development Project",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "ejs": "^2.5.7",
+    "express": "^4.11.1",
+    "request": "^2.82.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.15.4",
-    "node-api-resp": "^1.0.4"
-  }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rtalukder/IP-Dev-Project"
+  },
+  "author": "Raquib Talukder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rtalukder/IP-Dev-Project"
+  },
+  "homepage": "https://github.com/rtalukder/IP-Dev-Project"
 }
