@@ -2,6 +2,7 @@
 
 import requests
 import json
+import csv
 
 # retreiving data from 
 def get_api_data():
@@ -20,6 +21,16 @@ def get_api_data():
 	file.close()
 
 	print("Data has been saved to 'IP Dev Project/jupyter_notebooks/data/JSONdata'")
+
+def csv_to_json():
+	csv_file = open("data/csv_data.txt")
+	json_file = open("data/csv_to_json_file.txt", 'w')
+
+	field_names = ("typical_hours", "name", "salary_or_hourly", "full_or_part_time", "annual_salary", "department", "job_titles", "hourly_rate")
+	reader = csv.DictReader(csv_file, field_names)
+	for row in reader:
+			json.dump(row, json_file)
+			json_file.write("\n")
 
 # splitting JSON data from function above into salried and hourly employees
 def file_split():
@@ -77,6 +88,7 @@ def mongo_export():
 	print("Exported data to 'salaried' and 'hourly' collections in MongoDB.")
 
 if __name__ == '__main__':
-	get_api_data()
-	file_split()
-	mongo_export()
+	# get_api_data()
+	# file_split()
+	# mongo_export()
+	csv_to_json()
