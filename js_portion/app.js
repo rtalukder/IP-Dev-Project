@@ -3,22 +3,23 @@
 // app.js
 
 var express = require('express'),
-    app = express(),
     path = require('path'),
-    request = require('request');
+    bodyParser = require('body-parser'),
+    request = require('request'),
+    path = require('path'),
+    app = express();
+
+var admin_username = 'admin'
+var admin_password = 'password'
 
 app.use(express.static(__dirname + '/public'));
-
-bodyParser = require('body-parser')
-
-app.set('views', path.join(__dirname + '/public/signup'));
-app.set('view engine', 'ejs');
-
 app.use('/bower_components', express.static(__dirname + '/bower_components'));
-
 app.use(bodyParser.urlencoded({
     extended: true
 }));
+
+app.set('views', path.join(__dirname + '/public/signup'));
+app.set('view engine', 'ejs');
 
 // index.html
 app.get('/', function(req, res) {
@@ -36,9 +37,7 @@ app.get('/signIn', function(req, res) {
 
 // signup.html
 app.get('/signUp', function(req, res) {
-    res.render('signup', {
-        error: ''
-    })
+    res.render('signup', {error:'', 'root':__dirname + '/public/signup'})
 });
 
 // registering first time user
@@ -81,7 +80,7 @@ app.post('/register', function(req, resp) {
             })
         } else {
             console.log('All good');
-            resp.redirect('http://localhost:3000/#/signin');
+            resp.redirect('/signIn');
         }
     })
 });

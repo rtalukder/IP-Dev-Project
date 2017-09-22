@@ -13,7 +13,7 @@ angular.module('myAppService',[]).service('CommonProp', function() {
         setUser: function(value) {
             user = value;
         },
-	getUserAuth: function() {
+	    getUserAuth: function() {
             return userAuth;
         },
         setUserAuth: function(value) {

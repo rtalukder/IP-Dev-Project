@@ -6,7 +6,7 @@
       <div class="header">
         <nav>
           <ul class="nav nav-pills pull-right">
-        <li role="presentation" class="active"><a href="#userHome">Home</a></li>
+            <li role="presentation" class="active"><a href="#userHome">Home</a></li>
             <li role="presentation" ><a href="#addItem">Add</a></li>
             <li role="presentation" ><a href="#">Logout</a></li>
           </ul>
@@ -15,7 +15,7 @@
       </div>
 
       
-     <div class="list-group" ng-repeat="task in tasks">
+    <div class="list-group" ng-repeat="task in tasks">
     <a href="#" onclick="return false;" class="list-group-item active">
         
         <p class="list-group-item-text">{{task.title}}</p>
@@ -31,8 +31,7 @@
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span>
-                </button>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
                 <h4 class="modal-title" id="editModalLabel">Update Task</h4>
             </div>
             <div class="modal-body">
@@ -55,7 +54,7 @@
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header" style="text-align:center;">
-                <h4 class="modal-title" style="color:red;" id="deleteModalLabel">You are about to Delete this Task !!</h4>
+                <h4 class="modal-title" style="color:red;" id="deleteModalLabel">You are about to delete this information, continue?</h4>
             </div>
  
             <div class="modal-footer">
@@ -68,7 +67,7 @@
       
 
       <footer class="footer">
-        <p>Forsythe- IP Development</p>
+        <p>Forsythe Academy- IP Development</p>
       </footer>
 
     </div>
