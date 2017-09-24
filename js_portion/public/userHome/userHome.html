@@ -9,6 +9,11 @@
     <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://getbootstrap.com/docs/4.0/examples/narrow-jumbotron/narrow-jumbotron.css" rel="stylesheet">
     <link href="signup/signup.css" rel="stylesheet">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap-theme.min.css">
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
    
    
   </head>
@@ -19,7 +24,7 @@
       <div class="header">
         <nav>
           <ul class="nav nav-pills pull-right">
-            <li class="nav-item"><a class="nav-link active" href="#userHome">Home</a></li>
+            <li class="nav-item"><a class="nav-link active" href="#/home">Home</a></li>
             <li class="nav-item"><a class="nav-link active" href="#addItem">Add</a></li>
             <li class="nav-item"><a class="nav-link active" href="#">Logout</a></li>
           </ul>
@@ -33,12 +38,13 @@
         
         <p class="list-group-item-text">{{task.title}}</p>
    <span class="pull-right">
-      <button class="btn btn-xs btn-info" ng-click="editTask(task.title,task.id,task.tag)" data-target="#editModal">EDIT</button>
-     <button class="btn btn-xs btn-warning" ng-click="confirmDelete(task.id,task.tag)" data-target="#deleteModal" >DELETE</button>
+    <button type="button" class="btn btn-xs btn-info" ng-click="editTask(task.title,task.id,task.tag)" data-target="#editModal">EDIT</button>
+
+    <button type="button" class="btn btn-xs btn-warning" ng-click="confirmDelete(task.id,task.tag)" data-target="#deleteModal" >DELETE</button>
     </span>
        
     </a>
-</div>
+    </div>
 
 <div class="modal fade" id="editModal" tabindex="-1" role="dialog" aria-labelledby="editModalLabel" aria-hidden="true">
     <div class="modal-dialog">
@@ -63,8 +69,8 @@
     </div>
 </div>
 
-<div class="modal fade" id="deleteModal" tabindex="-1" role="dialog" aria-labelledby="deleteModalLabel" aria-hidden="true">
-    <div class="modal-dialog">
+<div class="modal fade" id="deleteModal" tabindex="-1" role="dialog" aria-labelledby="deleteModalLabel">
+    <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header" style="text-align:center;">
                 <h4 class="modal-title" style="color:red;" id="deleteModalLabel">You are about to delete this information, continue?</h4>

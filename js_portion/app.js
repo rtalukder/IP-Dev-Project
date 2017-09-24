@@ -80,7 +80,7 @@ app.post('/register', function(req, resp) {
             })
         } else {
             console.log('All good');
-            resp.redirect('/signIn');
+            resp.redirect('/');
         }
     })
 });

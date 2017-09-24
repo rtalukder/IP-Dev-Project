@@ -3,6 +3,8 @@
 import requests
 import json
 import csv
+import pandas as pd
+from sodapy import Socrata
 
 # retreiving data from 
 def get_api_data():
@@ -22,15 +24,26 @@ def get_api_data():
 
 	print("Data has been saved to 'IP Dev Project/jupyter_notebooks/data/JSONdata'")
 
+def pandas_api():
+	client = Socrata("data.cityofchicago.org", None)
+	results_list = client.get("tt4n-kn4t")
+	results_df = pd.DataFrame.from_records(results_list)
+
+	json_data = results_df.to_json()
+
+	print(json_data )
+
 def csv_to_json():
-	csv_file = open("data/csv_data.txt")
+	csv_file = open("data/test.csv")
 	json_file = open("data/csv_to_json_file.txt", 'w')
 
 	field_names = ("typical_hours", "name", "salary_or_hourly", "full_or_part_time", "annual_salary", "department", "job_titles", "hourly_rate")
 	reader = csv.DictReader(csv_file, field_names)
+	
 	for row in reader:
-			json.dump(row, json_file)
-			json_file.write("\n")
+			print(row)
+			# json.dump(row, json_file)
+			# json_file.write("\n")
 
 # splitting JSON data from function above into salried and hourly employees
 def file_split():
@@ -89,6 +102,7 @@ def mongo_export():
 
 if __name__ == '__main__':
 	# get_api_data()
+	pandas_api()
 	# file_split()
 	# mongo_export()
-	csv_to_json()
+	# csv_to_json()
