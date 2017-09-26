@@ -79,11 +79,12 @@ app.post('/register', function(req, resp) {
                 error: result._issues.username
             })
         } else {
-            console.log('All good');
+            console.log('User has been created');
             resp.redirect('/');
         }
     })
 });
 
 // hit app at http://localhost:3000
+console.log("* Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)")
 app.listen(3000)
